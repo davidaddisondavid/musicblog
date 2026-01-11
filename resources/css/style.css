@@ -50,10 +50,12 @@ nav a { /* Top navigation bar links */
 
 .gig-tix {
     color: forestgreen;
+    text-decoration: underline !important;
 }
 
-.date {
-    text-decoration: underline;
+#week {
+    
+    text-align: center;
 }
 
 
@@ -84,11 +86,15 @@ nav a { /* Top navigation bar links */
 
 }
 
-@media only screen and (min-width: 1400px) { /* Adjustments for big monitors */
+@media only screen and (min-width: 1800px) { /* Adjustments for big monitors */
     body {
         font-size: 150%;
     }
+    .content {
+        top: 200px;
+    }
 }
+
 
 .pages{ /* Gives bold text to non title links */
     font-weight: bold;
@@ -104,4 +110,3 @@ nav a { /* Top navigation bar links */
     margin: 20px;
     padding-bottom: 80px;
 }
-

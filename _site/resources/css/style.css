@@ -48,6 +48,15 @@ nav a { /* Top navigation bar links */
     margin: 0 1.5em 0 1em;
 }
 
+.gig-tix {
+    color: forestgreen;
+}
+
+.date {
+    text-decoration: underline;
+}
+
+
 @media only screen and (max-width: 572px) { /* Adjustments for mobile screens */
     body {
         font-size: 0.75em;

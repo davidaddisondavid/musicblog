@@ -141,3 +141,17 @@ ul {
 .intro {
     text-align: center;
 }
+
+.photoblock {
+    display: flex;
+    width: 100%;
+    gap: 0;              /* no extra gaps to make them fill perfectly */
+}
+
+.aoty-img {
+    flex: 1 1 0;         /* all images grow and shrink equally */
+    width: 0;            /* necessary to distribute width evenly in flex */
+    height: auto;        /* preserves aspect ratio */
+    object-fit: cover;   /* crops to fill flex item */
+}
+

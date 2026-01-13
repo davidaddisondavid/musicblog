@@ -1,3 +1,6 @@
 description: david's music blog
 markdown: kramdown
 permalink: /:title/
+url: "https://buzzorhowl.com"
+baseurl: ""
+

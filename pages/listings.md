@@ -1,6 +1,7 @@
 ---
 title: Listings
 layout: default
+permalink: /listings/
 ---
 
 <h1 id='week'>Jan 12 - 18</h1>

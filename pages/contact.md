@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: default
+permalink: /{{ page.title | slugify }}/
 ---
 
 If you want to recommend music, gigs or anything else, get in touch <br>

@@ -4,13 +4,16 @@ body {
 p {
     line-height: 1.5em;
 }
-
+h1{
+    text-align: center;
+}
 h2{
     line-height: 2em;
 }
 
 a { 
     text-decoration: none; /* Sets default link appearance to no underline */
+    color: forestgreen;
 }
 
 blockquote {
@@ -24,6 +27,10 @@ blockquote {
 
 a:hover {
     text-decoration: underline; /* Underlines link when mouse hovers */
+}
+
+.post-link {
+    color: forestgreen;
 }
 
 header { /* Top navigation bar */
@@ -51,11 +58,6 @@ nav a { /* Top navigation bar links */
 .gig-tix {
     color: forestgreen;
     text-decoration: underline !important;
-}
-
-#week {
-    
-    text-align: center;
 }
 
 
@@ -96,8 +98,8 @@ nav a { /* Top navigation bar links */
 }
 
 
-.pages{ /* Gives bold text to non title links */
-    font-weight: bold;
+.pages{ /* Gives bold text and green colour to non title links currently deleted*/
+    
 }
 
 #title {
@@ -109,4 +111,33 @@ nav a { /* Top navigation bar links */
     top: 80px;
     margin: 20px;
     padding-bottom: 80px;
+}
+
+#image-section {
+    display: flex;
+    justify-content: center;
+}
+
+#fp-posts {
+    margin-bottom: 20px;
+}
+
+#mmcover {
+    width: 20%;
+    min-width: 30px;
+    max-width: 1000px;
+    margin-top: 30px;
+    opacity: 70%;
+}
+
+ul {
+    line-height: 3;
+}
+
+.aoty-li {
+    color: forestgreen;
+}
+
+.intro {
+    text-align: center;
 }

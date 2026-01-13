@@ -5,15 +5,6 @@ layout: default
 
 <h1 id='week'>Jan 12 - 18</h1>
 
-<h2 class=date>Monday 12th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oeqmyg-senrab-sunglasz-vendor-the-wheel-2-sweetfish-12th-jan-windmill-brixton-london-tickets'>Windmill Brixton: senrab, Sunglasz Vendor, The Wheel 2!, Sweetfish</a>
-
-January's Pindrop event at the Windmill! Always a great night run by great people, this time with a focus on emo. Headlined by Senrab: a 'stoner metal' band who have been organising screamo shows in warehouses across London. Also on the bill are Sunglasz Vendor - I saw them play with glasshouse red spider mite last year, they're frantic and angular with some great melodies. Finally, there's The Wheel 2! - a noisy manic prog ensemble - and a newly formed screamo band called Sweet Fish. 
-<br>
-**tix: £6**
-<br> 
-<br> 
 <h2 class=date>Tuesday 13th</h2>
 
 <a class='gig-tix' target=_blank href= 'https://dice.fm/event/eobynw-hello-2026-shes-in-parties-13th-jan-the-old-blue-last-london-tickets'>Old Blue Last: She's in Parties, Ellis•D, Tears at the Table, Ninush</a>
@@ -26,9 +17,9 @@ The big highlight for me is opener Ninush, and her lush folky chamber pop. Also 
 <br> 
 <a class='gig-tix' target=_blank href = 'https://dice.fm/event/dk836v-five-day-forecast-2026-rabbitfoot-green-star-glasshouse-red-spider-mite-13th-jan-the-lexington-london-tickets'>The Lexington: RABBITFOOT, green star, Glasshouse Red Spider Mite </a>
 
-My favourite lineup of the week, three bands I love (and three completely different approaches to band name capitalisation). RABBITFOOT are equally groovy and theatrical, a really charismatic frontperson backed by a band of skilled musicians. green star are cool, wintery, harsh and pretty. G.R.S.M are an emotive slowcore band who play with patience and intention - when their songs hit their peaks you'll be in tears. 
+Three bands I love (and three completely different approaches to band name capitalisation). RABBITFOOT are equally groovy and theatrical, a really charismatic frontperson backed by a band of skilled musicians. green star are cool, wintery, harsh and pretty. G.R.S.M are an emotive slowcore band who play with patience and intention - when their songs hit their peaks you'll be in tears. 
 <br>
-**tix: £15 (more expensive, but worth it)**
+**tix: £15**
 <br> 
 <br> 
 <h2 class=date> Wednesday 14th </h2>
@@ -65,20 +56,12 @@ This year's first edition of the Shacklewell's Friend Crush series, where they i
 <br> 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/6dxnbq-five-day-forecast-2026-sean-trelford-aint-morn-15th-jan-the-lexington-london-tickets'>The Lexington: sean trelford, Ain't, Morn</a>
 
-3 more artists that The Line of Best Fit are singling out for 2026. Headlined by sean trelford, a psychadelic and classically trained songwriter & producer in the lofi Alex G style, check out his EP *ulcer* from the end of last year. Then there's Ain't, an indie rock band who write really great songs, I especially love their first single 'Oar'. Then finally there's Morn, a Speedy Wunderground signed explosive post-punk band. 
+3 more artists that The Line of Best Fit are singling out for 2026. Headlined by sean trelford, a psychadelic and classically trained songwriter & producer, check out his EP *ulcer* from the end of last year. Then there's Ain't, an indie rock band who write really great songs, I especially love their first single 'Oar'. Finally there's Morn, a Speedy Wunderground signed explosive post-punk band. 
 <br>
 **tix: £15**
 <br>
 <br> 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/rya77y-our-mutual-friend-15th-jan-the-dublin-castle-london-tickets'>The Dublin Castle: Truthpaste, Stanley Welch, Kissing Gate</a>
 
-Promoters *Our Mutual Friend* give a better description of these artists than I could hope to come up with, so I'll just paste it here! All I'd add is that Truthpaste's live set is one of the most fun and heartwarming around:<br>
-<br>
-'Our Mutual Friend is a regular night of the best new alternative music in the whole damn land. Truthpaste: Folk? Art Pop? Baroque Pop? Music! Great music! Sweeping, epic-scaled songs from one of the best new bands in town. Stanley Welch: Musician and composer from rural Cornwall, creating beautifully lush, textured tunes for fans of late period Talk Talk (who isn’t) and early Brian Eno et al. Kissing Gate: Rocking and rolling with violins, many members and impeccable songwriting, this is white hot alternative rock at its best. Followed by DJs until 2am'
-<br>
-**tix:£10**
-<br>
-<br>
 <h2 class='date'>Friday 16th</h2>
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/av39v2-my-new-band-believe-2026-workshop-shows-16th-jan-the-george-tavern-london-tickets'>George Tavern: My New Band Believe, Drive Your Plow, Evelyn Gray</a>
@@ -87,9 +70,52 @@ My New Band Believe, led by Cameron Picton, have had a different lineup for virt
 <br>
 **tix: £10**
 
-<a class='gig-tix' target_blank href='https://www.eventbrite.com/e/luggs-release-party-start-stop-tickets-1979481364046?aff=oddtdtcreator'>Mascara Bar: Luggs, Lola</a>
+<a class='gig-tix' target = _blank href='https://www.eventbrite.com/e/luggs-release-party-start-stop-tickets-1979481364046?aff=oddtdtcreator'>Mascara Bar: Luggs, Lola</a>
 
-Hard to find out much about the headliner Luggs, this is a launch show for their debut single, I think they're from Bristol and . But there's lots of great cosigns for this gig,. Lola is supporting, a
+Hard to find out much about the headliner Luggs, this is a launch show for their debut single, I think they're from Bristol and there's a description on a gig listing <a target= _blank href='https://www.headfirstbristol.co.uk/whats-on/the-old-england-pub/wed-29-jan-luggs-121186#e121186'> here  </a> which I think is describing them! . But there's lots of great reasons to go to this gig regardless. Lola is supporting, a really interesting artist who makes dark, mystical music, and had a music video shown at BFI Imax. Also, I love Masacara Bar as a venue, I wish there were more gigs there – it's such a weird & magical place. The excellent Dog Race are on DJ duties after the gig. 
+<br>
+**tix: £8**
+<br>
+<br>
+<h2 class='date'>Saturday 17th</h2>
+
+<a class='gig-tix' target=_blank href='http://dice.fm/event/eob9o2-bad-vibes-2026-year-of-the-horse-w-modern-woman-spanish-horses-jonique-sabina-h-17th-jan-moth-club-london-tickets'>Moth Club: Modern Woman, Spanish Horses, Jonique, Sabina H</a>
+
+Here's a lovely little description of Modern Woman from a <a target=_blank href='https://soyoungmagazine.com/modern-woman-beauty-is-in-the-ear-of-observation/'> So Young</a> article on the band: 'Mindfully melding psychotic arrangements with the surrealist landscapes of social structures'. They're headlining a 2026 showcase on Saturday, organised by Bad Vibrations. I went to last week's edition with Maiden, Max Winter, Dek and Saint Jude - it was a great lineup top to bottom. Spanish Horses are on this bill, they've been gigging loads and gaining lots of fans since they moved to London from Paris last year. I'm especially excited for Jonique, Joni from Djank, and formerly Fraulein's new project. I loved a solo set from her that I saw last week at the Windmill and I'm looking forward to seeing her with a full band!
+<br>
+**tix: free**
+<br>
+<br>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6n259-turnspit-may-mm99-multiscreen-17th-jan-windmill-brixton-london-tickets'>Windmill Brixton: Turnspit, MAY, MM'99, multiscreen</a>
+
+Co-promoted by the Windmill and independent Leeds record label Private Regcords. Headlined by Turnspit, who I haven't seen but sound great from this description: 'A duo from the DIY hotbed of Leeds with a cinematic, experimental take on electronica creating both intimate beats and a club-ready energy. Punters describe them as Long-bodied, crooked-legged, ugly dogs with a suspicious and unhappy look about them.' Joined by alt-pop singer/songwriter/producer MAY, podcaster/musician/legend multiscreen, and MM'99. 
+<br>
+**tix: £6**
+<br>
+<br>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/92w8p6-friend-crush-curated-by-fat-dog-17th-jan-the-shacklewell-arms-london-tickets'>Shacklewell Arms:SILVERWINGKILLER, Star City, Lttl Mrt</a>
+
+Another Shacklewell Friend Crush event, this time curated by Fat Dog. It's another very cohesive lineup: SILVERWINGKILLER are a loud, chaotic duo from Manchester with elements of acid house and digital hardcore; Star City are a techno-disco group who are Windmill stalwarts; Lttl Mrt is an awesome synth/drum duo who sound something like a mix of pulp and the prodigy. 
+<br>
+**tix: free**
+
+<h2 class='date'>Sunday 18th</h2>
+
+<a class='gig-tix' target=_blank href='https://mascarabar.co.uk/events/2026/quintet-peter-zummo'>Mascara Bar: Quintet with Peter Zummo</a>
+
+Peter Zummo is an avant garde trombonist, composer and band leader who was a long time creative partner of Arthur Russell, check out <a href='https://thequietus.com/interviews/peter-zummo-arthur-russell-interview/'>this great interview with The Quietus</a> discussing their relationship. His playing can be heard across Russell's whole discography, often supporting or playing counterpoint to the cello line – the two collaborated on probably entire days worth of released and unreleased music. Outside of his work with Arthur Russell, Zummo has been an extremely prolific artist and composer, making sparse, alien, blissful music. And you can see him at Masacara Bar! This Sunday! wow
+<br>
+**tix:£10 - I couldn't find anywhere to buy tickets online, so looks like it might be pay on the door?**
+
+
+
+
+
+
+
+
+
+
 
 
 

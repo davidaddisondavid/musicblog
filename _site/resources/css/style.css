@@ -145,7 +145,8 @@ ul {
 .photoblock {
     display: flex;
     width: 100%;
-    gap: 0;              /* no extra gaps to make them fill perfectly */
+    gap: 0; 
+    flex-wrap: nowrap;            
 }
 
 .aoty-img {

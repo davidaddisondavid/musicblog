@@ -8,8 +8,10 @@ title: The Beach Boys Walking Tour of South London
 		margin-bottom: 20px;
 	}
 	.photoblock div {
-		flex-shrink: 1;
+		flex: 1 1 1;
 		align-content: center;
+		min-width: 0;
+
 	}
 	.photoblock div img {
 		width: 100%;
@@ -17,6 +19,7 @@ title: The Beach Boys Walking Tour of South London
 		max-height: 400px;
 		opacity: 80%;
 		min-width: 0;
+		display: block;
 	}
 </style>
 

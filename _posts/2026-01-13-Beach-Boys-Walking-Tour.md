@@ -16,6 +16,7 @@ title: The Beach Boys Walking Tour of South London
 		height: auto;
 		max-height: 400px;
 		opacity: 80%;
+		min-width: 0;
 	}
 </style>
 

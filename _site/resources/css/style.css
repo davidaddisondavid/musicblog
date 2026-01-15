@@ -142,15 +142,6 @@ ul {
     text-align: center;
 }
 
-.photoblock {
-    display: flex;
-    width: 100%;
-    gap: 0; 
-    flex-wrap: nowrap; 
-    gap: 10px;
-	margin-bottom: 20px;           
-}
-
 .aoty-img {
     flex: 1 1 0;         /* all images grow and shrink equally */
     width: 0;            /* necessary to distribute width evenly in flex */
@@ -158,20 +149,31 @@ ul {
     object-fit: cover;   /* crops to fill flex item */
 }
 
+.photoblock {
+    display: flex;
+    flex-wrap: nowrap;        /* single row */
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: stretch;     /* ensures all divs try to match height */
+    width: 100%;
+}
+
 .photoblock div {
-	flex: 1 1 1;
-	align-content: center;
-	min-width: 0;
-	overflow: hidden;
+    flex: 1 1 1;           /* grow/shrink based on content */
+    min-width: 0;             /* allows shrinking in iOS Safari */
+    display: flex;            /* make inner div a flex container */
+    align-items: center;      /* vertical center images smaller than container */
+    overflow: hidden;
 }
+
 .photoblock div img {
-	width: 100%;
-	height: auto;
-	max-height: 400px;
-	opacity: 80%;
-	min-width: 0;
-	max-width: 100%;
-	display: block;
+    width: 100%;              /* scale to container width */
+    height: auto;             /* preserve aspect ratio */
+    display: block;
+    max-height: 400px;        /* optional max height */
+    opacity: 0.8;
+    object-fit: contain;
 }
+
 
 

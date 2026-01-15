@@ -2,28 +2,6 @@
 layout: default
 title: The Beach Boys Walking Tour of South London
 ---
-<style>
-	.photoblock {
-		gap: 10px;
-		margin-bottom: 20px;
-	}
-	.photoblock div {
-		flex: 1 1 1;
-		align-content: center;
-		min-width: 0;
-		overflow: hidden;
-
-	}
-	.photoblock div img {
-		width: 100%;
-		height: auto;
-		max-height: 400px;
-		opacity: 80%;
-		min-width: 0;
-		max-width: 100%;
-		display: block;
-	}
-</style>
 
 # The Beach Boys Walking Tour of South London
 

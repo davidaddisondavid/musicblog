@@ -167,7 +167,7 @@ ul {
     height: auto;
     max-height: 25rem;         /* optional max height */
     opacity: 0.8;
-
+    object-fit: contain;
 }
 
 

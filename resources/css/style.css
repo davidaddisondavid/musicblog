@@ -150,30 +150,36 @@ ul {
 }
 
 .photoblock {
+    display: -webkit-flex;    /* older Safari/Chrome */
     display: flex;
-    flex-wrap: nowrap;        /* single row */
+    -webkit-flex-wrap: nowrap; 
+    flex-wrap: nowrap;         /* single row */
     gap: 10px;
     margin-bottom: 20px;
-    align-items: stretch;     /* ensures all divs try to match height */
+    -webkit-align-items: stretch; 
+    align-items: stretch;          /* ensures all divs try to match height */
     width: 100%;
 }
 
 .photoblock div {
-    flex: 1 1 1;           /* grow/shrink based on content */
-    min-width: 0;             /* allows shrinking in iOS Safari */
-    display: flex;            /* make inner div a flex container */
-    align-items: center;      /* vertical center images smaller than container */
+    -webkit-flex: 1 1 1;      
+    flex: 1 1 1;               /* grow/shrink based on content */
+    min-width: 0;              /* allows shrinking in iOS Safari */
+    display: -webkit-flex;     
+    display: flex;
+    -webkit-align-items: center; 
+    align-items: center;         /* vertical center images smaller than container */
     overflow: hidden;
+    object-fit: cover;
 }
 
 .photoblock div img {
-    width: 100%;              /* scale to container width */
-    height: auto;             /* preserve aspect ratio */
+    width: 100%;               /* scale to container width */
+    height: auto;              /* preserve aspect ratio */
     display: block;
-    max-height: 400px;        /* optional max height */
+    max-height: 400px;         /* optional max height */
     opacity: 0.8;
     object-fit: contain;
 }
-
 
 

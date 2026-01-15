@@ -152,31 +152,20 @@ ul {
 .photoblock {
     display: -webkit-flex;    /* older Safari/Chrome */
     display: flex;
-    -webkit-flex-wrap: nowrap; 
-    flex-wrap: nowrap;         /* single row */
     margin-bottom: 20px;
-    -webkit-align-items: stretch; 
-    align-items: stretch;          /* ensures all divs try to match height */
-    width: 100%;
 }
 
 .photoblock div {
-    -webkit-flex: 1 1 auto;      
-    flex: 1 1 auto;               /* grow/shrink based on content */
     min-width: 0;
     min-height: 0;             
     display: -webkit-flex;     
     display: flex;
-    overflow: hidden;
-    object-fit: cover;
 }
 
 .photoblock div img {
     width: 100%;               /* scale to container width */
-    height: auto;              /* preserve aspect ratio */
     max-height: 25rem;         /* optional max height */
     opacity: 0.8;
-    object-fit: contain;
 }
 
 

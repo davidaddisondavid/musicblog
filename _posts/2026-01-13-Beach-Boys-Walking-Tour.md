@@ -71,7 +71,10 @@ Going to the cinema on my own is often something I do when I feel lonely, maybe 
 		<img src="{{ '/resources/images/bb-walking-imgs/BFI-southbank.jpg' | relative_url }}">
 	</div>
 	<div>
-		<img src="{{ '/resources/images/bb-walking-imgs/Love-and-Mercy.jpg' | relative_url }}">
+		<img src="{{ '/resources/images/bb-walking-imgs/bfioutside.jpg' | relative_url }}">
+	</div>
+	<div>
+		<img src="{{ '/resources/images/bb-walking-imgs/Brian_Wilson.jpg' | relative_url }}">
 	</div>
 </div>
 		

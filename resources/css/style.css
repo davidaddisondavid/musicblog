@@ -162,6 +162,8 @@ ul {
 }
 
 .photoblock div {
+    -webkit-flex: 1 1 auto;      
+    flex: 1 1 auto;               /* grow/shrink based on content */
     min-width: 0;              /* allows shrinking in iOS Safari */
     display: -webkit-flex;     
     display: flex;
@@ -172,8 +174,6 @@ ul {
 }
 
 .photoblock div img {
-    -webkit-flex: 1 1 0;      
-    flex: 1 1 0;   
     width: 100%;               /* scale to container width */
     height: auto;              /* preserve aspect ratio */
     display: block;

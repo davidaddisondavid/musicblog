@@ -154,7 +154,6 @@ ul {
     display: flex;
     -webkit-flex-wrap: nowrap; 
     flex-wrap: nowrap;         /* single row */
-    gap: 10px;
     margin-bottom: 20px;
     -webkit-align-items: stretch; 
     align-items: stretch;          /* ensures all divs try to match height */
@@ -164,7 +163,8 @@ ul {
 .photoblock div {
     -webkit-flex: 1 1 auto;      
     flex: 1 1 auto;               /* grow/shrink based on content */
-    min-width: 0;              /* allows shrinking in iOS Safari */
+    min-width: 0;
+    min-height: 0;              /* allows shrinking in iOS Safari */
     display: -webkit-flex;     
     display: flex;
     -webkit-align-items: center; 

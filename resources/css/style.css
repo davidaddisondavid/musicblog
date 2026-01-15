@@ -163,9 +163,11 @@ ul {
 }
 
 .photoblock div img {
-    width: 100%;               /* scale to container width */
+    width: 100%;       
+    height: auto;
     max-height: 25rem;         /* optional max height */
     opacity: 0.8;
+
 }
 
 

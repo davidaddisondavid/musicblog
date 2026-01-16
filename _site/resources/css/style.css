@@ -158,9 +158,10 @@ ul {
 .photoblock div {
     min-width: 0;
     min-height: 0;             
-    display: -webkit-flex;     
-    display: flex;
-    overflow: scroll;
+    display: -webkit-inline-flex;     
+    display: inline-flex;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
 }
 
 .photoblock div img {
@@ -168,7 +169,7 @@ ul {
     height: auto;
     max-height: 25rem;         /* optional max height */
     opacity: 0.8;
-    object-fit: contain;
+    object-fit: fill;
 }
 
 

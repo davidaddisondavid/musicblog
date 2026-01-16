@@ -86,6 +86,10 @@ nav a { /* Top navigation bar links */
         padding-bottom: 10px;
     }
 
+    .photoblock div {
+        height: 200px !important;
+    }
+
 }
 
 @media only screen and (min-width: 1800px) { /* Adjustments for big monitors */
@@ -152,31 +156,21 @@ ul {
 .photoblock {
     display: -webkit-flex;    /* older Safari/Chrome */
     display: flex;
-    margin-bottom: 20px;
-    width: 100%;
-    height: auto;
+    flex-wrap: nowrap;
 }
 
-.photoblock div {
-    min-width: 0;
-    min-height: 0;   
-    width: auto;
-    height: auto;         
-    display: -webkit-inline-flex;     
-    display: inline-flex;
+.photoblock div {  
     -webkit-flex: 1 1 auto;
     flex: 1 1 auto;
-    object-fit: stretch;
+    height: 400px;
 }
 
 .photoblock div img {
     width: 100%;       
-    height: auto;
+    height: 100%;
     max-height: 25rem;  
-    min-height: 80px;
     opacity: 0.8;
     object-fit: contain;
-    display: inline-block
 }
 
 

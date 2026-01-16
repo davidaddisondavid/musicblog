@@ -153,6 +153,8 @@ ul {
     display: -webkit-flex;    /* older Safari/Chrome */
     display: flex;
     margin-bottom: 20px;
+    width: 100%;
+    height: auto;
 }
 
 .photoblock div {

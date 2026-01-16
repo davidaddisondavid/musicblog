@@ -90,6 +90,11 @@ nav a { /* Top navigation bar links */
         height: 200px !important;
     }
 
+    .photoblock div img {
+        height: 180px !important;
+    }
+
+
 }
 
 @media only screen and (min-width: 1800px) { /* Adjustments for big monitors */
@@ -171,6 +176,7 @@ ul {
     max-height: 25rem;  
     opacity: 0.8;
     object-fit: contain;
+    height: 400px;
 }
 
 

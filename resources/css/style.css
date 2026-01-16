@@ -167,9 +167,10 @@ ul {
 .photoblock div img {
     width: 100%;       
     height: auto;
-    max-height: 25rem;         /* optional max height */
+    max-height: 25rem;  
+    min-height: 80px;
     opacity: 0.8;
-    object-fit: fill;
+    object-fit: contain;
 }
 
 

@@ -4,122 +4,130 @@ layout: default
 permalink: /listings/
 ---
 
-<h1 id='week'>Jan 12 - 18</h1>
+<h1 id='week'>Jan 19 - 25</h1>
 
-<h2 class=date>Tuesday 13th</h2>
+<h2 class='date'>Monday 19th</h2>
 
-<a class='gig-tix' target=_blank href= 'https://dice.fm/event/eobynw-hello-2026-shes-in-parties-13th-jan-the-old-blue-last-london-tickets'>Old Blue Last: She's in Parties, Ellis•D, Tears at the Table, Ninush</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/eob92y-new-music-monday-20262-19th-jan-windmill-brixton-london-tickets'>Windmill Brixton: New Music Mondays</a>
 
-New music showcase organised by DIY magazine, the second of four this month. 
-The big highlight for me is opener Ninush, and her lush folky chamber pop. Also on the lineup: She's in Parties are a dreamy indie group; Ellis•D is a glam punk artist, known and highly rated for their live performances; Tears at the table make moody jangly goth rock. 
-<br>
-**tix: free (but one in one out, rsvp if you can)**
-<br> 
-<br> 
-<a class='gig-tix' target=_blank href = 'https://dice.fm/event/dk836v-five-day-forecast-2026-rabbitfoot-green-star-glasshouse-red-spider-mite-13th-jan-the-lexington-london-tickets'>The Lexington: RABBITFOOT, green star, Glasshouse Red Spider Mite </a>
+Another entry in the Windmill's popular series, bands who play New Music Mondays have passed through the discerning filter of the venue's in house booker, so the lineup is consistently fresh, varied and top-quality. In the last couple of years it's been one of the best nights to catch the first show of a brilliant new band. 
+<br><br>
+**tix: free**
 
-Three bands I love (and three completely different approaches to band name capitalisation). RABBITFOOT are equally groovy and theatrical, a really charismatic frontperson backed by a band of super skilled musicians. green star are cool, wintery, harsh and pretty. G.R.S.M are an emotive slowcore band who play with patience and intention - when their songs hit their peaks you'll be in tears. 
-<br>
-**tix: £15**
-<br> 
-<br> 
-<h2 class=date> Wednesday 14th </h2>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8erdvv-tgt-free-artyplanet-maximillian-tanner-mortagh-19th-jan-the-george-tavern-london-tickets'>George Tavern: Artyplanet / Maximillian Tanner / Mortagh</a>
 
-<a class='gig-tix' target=_blank href = 'https://dice.fm/event/nvkal9-atomiser-new-year-new-time-14th-jan-avalon-cafe-london-tickets'> Avalon Cafe: Yorck Street, Sydenham High Road, Alba Akvama, Jæd, uv raymond</a>
+A free art-pop and electronica show at the George Tavern. Headlined by Artyplanet, who also plays with Lava La Rue, in their first solo gig. Also on the bill, Maximillian Tanner is a bold, melancholic synth pop artist. 
+<br><br>
+**tix: free**
+ 
+<hr>
+<h2 class=date>Tuesday 20th</h2>
 
-New year's celebration from underground promoters Atomiser,  one of the most reliably interesting promoters in London (a favourite show I saw last year was an experimental guitarist and throat singer called Posuposu Otani who opened for The Coward at an Atomiser event). I'm only really familiar with Sydenham High Road from this lineup - they are raw, drawling and smoky, music made for walking around at night - but I checked out headliner Yorck Street's EP *My Small Piano* and it's brilliant - intimate, dreamy alt-pop that's twisted and broken-down in the right places. 
-<br> 
-**tix: £7.70**
-<br> 
-<br> 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3og9ng-improvs-greatest-hits-no-clique-11-14th-jan-folklore-hoxton-london-tickets'>Folklore Hoxton: Improv’s Greatest Hits, No Clique #11</a> 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/g5ka8b-hello-2026-dog-race-20th-jan-the-old-blue-last-london-tickets'>Old Blue Last: Dog Race / Y / Jeanie & The White Boys / Bande á Part</a>
 
-Improv's Greatest Hits' No Clique events bring together members of various London bands, from different scenes and subcultures, to play improvised sets in one-night-only configurations. I went for the first time at the end of last year, there was lots of great and interesting music and some fun and exciting style-clashes, but most importantly a really nice community feeling. You can find information about the musicians involved this time round at the ticket link.
-<br> 
+This week's edition of DIY's 2026 showcase: Dog Race headline, a glittery new-wave electro-goth band full of energy and shadows; alongside big jam band 'Y', punks 'Jeanie & the White Boys' and art-rockers 'Bande a Part'. Get down early because the Old Blue Last is very small and these bands are very good.
+<br><br>
+**tix: free**
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/g5kao5-ewan-samms-omam-dawn-20th-jan-next-door-records-london-tickets'>Next Door Records (West): Ewan Samms / Omam Dawn</a>
+
+Ewan Samms is an artist and producer who works with textures and soundscapes to make compositions which are based around great songs and expand into dreamy, alien landscapes. This gig comes before the release of TWO! concurrent debut albums later this year.
+<br><br>
 **tix: £7**
-<br> 
-<br> 
-<h2 class='date'> Thursday 15th </h2>
 
-<a class='gig-tix' target=_blank href='https://www.eventbrite.co.uk/e/guest-event-skydaddy-presents-works-in-progress-tickets-1979661507861'>Theatreship: Skydaddy Presents 'Works in Progress'</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oenmkr-susannah-stark-karolina-lebek-ecka-mordecai-katie-shannon-dj-set-20th-jan-theatreship-london-tickets'>Theatreship: Susannah Stark / Karolina Lebek / Ecka Mordecai</a>
 
-A night of unfinished work-in-progress material from some brilliant songwriters, on a ship in Canary Wharf and hosted by art-folk-rock baladdeer Skydaddy. This edition of Skydaddy's WIP series feels particulary stacked, you can find all the names involved at the ticket link - but I'll mention in particular Max Winter, who I've seen play a few times now and think is a really exciting and unique songwriter, I'm interested to see what his music sounds like in this stripped back format given the sets I've seen from him have involved lots of synths and sampling, as well as effected viola and trumpet. 
-<br> 
-**tix: £16**
-<br> 
-<br> 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/mxlorr-friend-crush-curated-by-daniel-avery-15th-jan-the-shacklewell-arms-london-tickets'>Shacklewell Arms: wing!, Dek, Pearl2 (Curated by Daniel Avery)</a>
+This week's best nautical show is a night of folk and traditonal music, approached in an experimental & multi-disciplinary way. Headliner Susannah Stark has recently released her second album, 'Minor Gestures': an expansive and mystical collection of songs, sung in Gaidhlig and English & described as 'ritualistic sonic poetry'.
+<br><br>
+**tix: £11**
 
-This year's first edition of the Shacklewell's Friend Crush series, where they invite musicians & bands to curate a lineup of their favourite new artists. Electronic artist Daniel Avery has picked a sick and pretty tightly aligned lineup of three half electronic half live bands. wing! are one of the absolute best around right now, their sets are ecstatic, hypnotic and epic, Dek and Pearl2 are a bit darker and more acidic, but equally entrancing - Dek combine dreamy atmospherics with twinkly radar synths, while Pearl2 are pounding, glitchy and kind of acid-housey. 
-<br> 
-**tix: free (rsvp and get down early)**
-<br>
-<br> 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/6dxnbq-five-day-forecast-2026-sean-trelford-aint-morn-15th-jan-the-lexington-london-tickets'>The Lexington: sean trelford, Ain't, Morn</a>
+<hr>
+<h2 class=date> Wednesday 21st </h2>
 
-3 more artists that The Line of Best Fit are singling out for 2026. Headlined by sean trelford, a psychadelic and classically trained songwriter & producer, check out his EP *ulcer* from the end of last year. Then there's Ain't, an indie rock band who write really great songs, I especially love their first single 'Oar'. Finally there's Morn, a Speedy-Wunderground-signed explosive post-punk band. 
-<br>
-**tix: £15**
-<br>
-<br> 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/q289qo-100-club-jazz-festival-knats-kaidi-akinnibi-the-colossals-21st-jan-the-100-club-london-tickets'>100 Club: Knats / Kaidi Akinnibi / The Colossals</a>
 
-<h2 class='date'>Friday 16th</h2>
+Oxford Street's 100 Club is best known as a historic punk venue, but it began life in the 1940s as the Feldman Swing Club. In January they're returning to the venue's roots by putting on a series of jazz nights. Although I'd say this show, with Newcastle jazz band Knats and saxophonist Kaidi Akinnibi, also has echoes of the 100 Club's punk spirit. Knats 'pride themselves on playing Newcastle’s homegrown Geordie jazz, known for its deep, danceable drum’n‘bass grooves and infectious, aggressive melodies' (<a target=_blank href='https://downbeat.com/news/detail/knats-from-newcastle-with-lotsa-love'>link to interview</a>).
+<br><br>
+**tix: £11**
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/av39v2-my-new-band-believe-2026-workshop-shows-16th-jan-the-george-tavern-london-tickets'>George Tavern: My New Band Believe, Drive Your Plow, Evelyn Gray</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/yo636p-bdn-truthpaste-the-last-whole-earth-catalog-21st-jan-the-grace-london-tickets'>The Grace: Truthpaste / The Last Whole Earth Catalog</a>
 
-My New Band Believe, led by Cameron Picton, have had a different lineup for virtually every one of their shows so far - the sound and instrumental makeup of the band on any given night is unpredictable, but the songs are consistently great and excecuted with loads of energy, groove and texture, drawing on elements of post-punk, salsa and folk music. They're supported here by Drive Your Plow, a sprawling art folk/jazz ensemble with some properly heartbreaking ballads (the one on piano in particular), they were part of mitj's picks for the aforementioned Friend Crush series last year. Also on the bill is singer-songwriter Evelyn Gray, ahead of an official launch gig for her new album in February (also at the George), Evelyn's new project is themed around 'documenting the rooms of an abandoned apartment block before its demolition', I'm really excited to hear it. 
-<br>
-**tix: £10**
-
-<a class='gig-tix' target = _blank href='https://www.eventbrite.com/e/luggs-release-party-start-stop-tickets-1979481364046?aff=oddtdtcreator'>Mascara Bar: Luggs, Lola</a>
-
-Hard to find out much about the headliner Luggs, this is a launch show for their debut single, I think they're from Bristol and there's a description on a gig listing <a target= _blank href='https://www.headfirstbristol.co.uk/whats-on/the-old-england-pub/wed-29-jan-luggs-121186#e121186'>here</a> which I think is describing them! . But there's lots of great reasons to go to this gig regardless. Lola is supporting, a really interesting artist who makes dark, mystical music, and had a music video shown at BFI Imax. Also, I love Masacara Bar as a venue, I wish there were more gigs there – it's such a weird & magical place. The excellent Dog Race are on DJ duties after the gig. 
-<br>
-**tix: £8**
-<br>
-<br>
-<h2 class='date'>Saturday 17th</h2>
-
-<a class='gig-tix' target=_blank href='http://dice.fm/event/eob9o2-bad-vibes-2026-year-of-the-horse-w-modern-woman-spanish-horses-jonique-sabina-h-17th-jan-moth-club-london-tickets'>Moth Club: Modern Woman, Spanish Horses, Jonique, Sabina H</a>
-
-Here's a lovely little description of Modern Woman from a <a target=_blank href='https://soyoungmagazine.com/modern-woman-beauty-is-in-the-ear-of-observation/'> So Young</a> article on the band: 'Mindfully melding psychotic arrangements with the surrealist landscapes of social structures'. They're headlining a 2026 showcase on Saturday, organised by Bad Vibrations. I went to last week's edition with Maiden, Max Winter, Dek and Saint Jude - it was a great lineup top to bottom. I'm especially excited for Jonique, Joni from Djank, and formerly Fraulein's, new project. I loved a solo set from her that I saw last week at the Windmill and I'm looking forward to seeing her with a full band!
-<br>
+Excellent bill at the Grace, promoted by busy doing nothing. Truthpaste have one of the most fun and charming live sets around at the moment, they make arty folktronica with strings, synths and a drum machine - I love how they intergrate the drum programming into their performance and kind of huddle around the laptop. The Last Whole Earth Catalog is an ever changing project led by Dan Parr, a brilliant and prolific singer-songwriter. 
+<br><br>
 **tix: free**
-<br>
-<br>
-<a class='gig-tix' target=_blank href='https://dice.fm/event/k6n259-turnspit-may-mm99-multiscreen-17th-jan-windmill-brixton-london-tickets'>Windmill Brixton: Turnspit, MAY, MM'99, multiscreen</a>
 
-Co-promoted by the Windmill and independent Leeds record label Private Regcords. Headlined by Turnspit, who I haven't seen but sound great from this description: 'A duo from the DIY hotbed of Leeds with a cinematic, experimental take on electronica creating both intimate beats and a club-ready energy. Punters describe them as Long-bodied, crooked-legged, ugly dogs with a suspicious and unhappy look about them.' Joined by alt-pop singer/songwriter/producer MAY, podcaster/musician/instagram-reeler multiscreen, and MM'99. 
-<br>
+<hr>
+<h2 class='date'> Thursday 22nd </h2>
+
+<a class='gig-tix' target=_blank href='https://www.thehorsehospital.com/events/my-new-band-believe-caius-williams'>Horse Hospital: My New Band Believe / Caius Williams</a>
+
+Another workshop show for MNBB at the Horse Hospital, this time with a lineup featuring acoustic guitars, upright bass, viola and cittern (a pear shaped string instrument, similar to what you might imagine a medieval troubadour playing). Bassist Caius Williams will play a solo set to open. Exciting prospect to hear these songs in this arrangement!
+<br><br>
+**tix: £12**
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/926vg7-love-tutorial-auntie-samuel-22nd-jan-windmill-brixton-london-tickets'>Windmill Brixton: Love Tutorial / Auntie / Samuel</a>
+
+Headliners Love Tutorial are aparently inspired by the novels of Don DeLillo and the albums of Prefab Sprout. They've got a few releases on bandcamp, which remind me a bit of Guided By Voices and that cool thing when the ambition of the music exceeds the fidelity of the recording - they make sincere bangers. They're joined by art rockers Auntie - with a very good balance of art and rock.
+<br><br>
 **tix: £6**
-<br>
-<br>
-<a class='gig-tix' target=_blank href='https://dice.fm/event/92w8p6-friend-crush-curated-by-fat-dog-17th-jan-the-shacklewell-arms-london-tickets'>Shacklewell Arms:SILVERWINGKILLER, Star City, Lttl Mrt</a>
 
-Another Shacklewell Friend Crush event, this time curated by Fat Dog. It's another very awesome very cohesive lineup: SILVERWINGKILLER are a loud, chaotic duo from Manchester with elements of acid house and digital hardcore; Star City are a techno-disco group who are Windmill stalwarts; Lttl Mrt is an awesome synth/drum duo who sound something like a mix of pulp and the prodigy. 
-<br>
+<hr>
+<h2 class='date'>Friday 23rd</h2>
+
+
+<a class='gig-tix' target=_blank href='https://docs.google.com/forms/d/e/1FAIpQLSf8YluS0h_gTifDuj3cg0tUMN6GIzJjelm_VTcc35hJcH8F2Q/viewform'>State 51: Late Works of Noise</a>
+
+The first launch gig for an exciting concept album, involving musicians from various projects making a track within 6 hours, using instruments built by other artists. This iteration will involve members of wing! PUNCHBAG, Findom and mary in the junkyard. 
+<br><br>
+**tix: free (rsvp required)**
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v3gwyl-bongo-joe-10-year-anniversary-night-1-kwake-bass-meril-wubslin-anja-ngozi-ayana-marysia-osu-iko-cherie-23rd-jan-cafe-oto-london-tickets'>Cafe Oto, Bongo Joe 10 Year Anniversary: Kwake Bass / Meril Wubslin / Anja Ngozi , Ayana & Marysia Osu</a>
+
+The first of 2 nights at Cafe Oto celebrating the 10 year anniversary of Swiss underground label Bongo Joe. Headlined by Kwake Bass, a producer/musical director who 'explores what lives between the cracks of structured programming with live electronic improvisation'. Meril Wubslin is a trancey dub-folk trio.
+<br><br>
+**tix: £16**
+
+<a class='gig-tix' target=_blank href='https://www.outsavvy.com/event/32684/trough04-avalon-caf-23rd-january-7pm-2am-lambeth-mutual-aid-fundraiser'>Avalon Cafe, TROUGH 04: Babyschön DJ Set / Comfort / Charlie Keen's Silver Birch</a>
+
+A fundraiser for Lambeth Mutual Aid organised by TROUGH collective. As well as the lineup of music - featuring a DJ set from The Guardian's experimental music journalist Babyschön; Glasgow noise duo Comfort, and trombonist/multi-instrumentalist Charlie Keen - there's also free soup and a caricature making workshop. 
+<br><br>
+**tix: £5/£10/£15**
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6nbpq-bojockey-bone-china-celeste-madden-23rd-jan-the-ivy-house-london-tickets'>Ivy House: Bojockey / Bone China / Celeste Madden</a>
+
+Lovely night at the lovely Ivy House in Nunhead, headlined by the 5-piece indie folk group Bojockey, along with Bone China - a brand new Slacker Rock band, who've been on some cool lineups since debuting late last year – the bits and pieces I've heard on their instagram sound cool.
+<br><br>
+**tix: £8**
+
+<hr>
+<h2 class='date'>Saturday 24th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/92wold-mptl-microplastics-doom-club-daltons-fen-ellisb-24th-jan-windmill-brixton-london-tickets'>Windmill Brixton: MPTL Microplastics / Doom Club / Daltons Fen / EllisB</a>
+
+Album release show for the anarchic 8 piece folk-collective MPTL Microplastics. Check out <a target=_blank href='https://thequietus.com/interviews/mptl-microplastics-interview/'>their interview with The Quietus</a> which notes the band's 'tradition-meets-futurism aesthetic'. The lineup is a mixture of acoustic and classical instruments, glitchy synthesisers and recycled objects - I recently saw one member play a kitchen sink. 
+<br><br>
+**tix: £7**
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/dkapy6-the-family-battenberg-holly-head-the-scuttlers-24th-jan-sebright-arms-london-tickets'>Sebright Arms: The Family Battenberg / Holly Head / The Scuttlers</a>
+
+Welsh psych/garage band The Family Battenberg headline this free show at the Sebright, they recently released a fuzzy, energetic debut EP called 'Spider Rock Forever'. They're joined by The Scuttlers and Manchester's Holly Head, who will head out on tour with Westside Cowboy in the spring. 
+<br><br>
 **tix: free**
 
-<h2 class='date'>Sunday 18th</h2>
+<hr>
+<h2 class='date'>Sunday 25th</h2>
 
-<a class='gig-tix' target=_blank href='https://mascarabar.co.uk/events/2026/quintet-peter-zummo'>Mascara Bar: Quintet with Peter Zummo</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8oxvw-louis-gardner-camberwell-group-anrimeal-mazy-day-evelina-25th-jan-the-old-blue-last-london-tickets'>Old Blue Last: Louis Gardner / Camberwell Group / Anrimeal / Mazy Day / Evelina</a>
 
-Peter Zummo is an avant garde trombonist, composer and band leader who was a long time creative partner of Arthur Russell, check out <a href='https://thequietus.com/interviews/peter-zummo-arthur-russell-interview/'>this great interview with The Quietus</a> discussing their relationship. His playing can be heard across Russell's whole discography, often supporting or playing counterpoint to the cello line – the two collaborated on probably entire days worth of released and unreleased music. Outside of his work with Arthur Russell, Zummo has been an extremely prolific artist and composer, making sparse, alien, blissful music. And you can see him at Masacara Bar! This Sunday! wow
-<br>
-**tix:£10 - I couldn't find anywhere to buy tickets online, so looks like it might be pay on the door?**
+A night of experimental folk at the Old Blue Last. Expect ornate arrangements and an iterative, enveloping approach to songwriting. Upstairs in the loft hosts a new vinyl only Dj night with sets from London cowboy Frank Llyold Wleft and Melanie Xulu.
+<br><br>
+**tix: free**
 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/avek7v-tgt-presents-parents-evening-rampressure-pig-city-committee-zd-grafters-25th-jan-the-george-tavern-london-tickets'>George Tavern: Rampressure / Pig City Committee / ZD Grafters</a>
 
-
-
-
-
-
-
-
-
-
-
-
+A fun one-off lineup of bands whose members include a parent & child. Headliners Rampressure are loud, fast and hard. Pig City Commitee recently played a gig with Nunhead Elvis - South East London's best Elvis impersonator - and ZD Grafters are an improvisational drum/synth father/son duo. 
+<br><br>
+**tix: £5**
 
 
 

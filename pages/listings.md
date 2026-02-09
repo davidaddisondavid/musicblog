@@ -101,7 +101,7 @@ Ruth Goller is the bassist in the experimental jazz group Melt Yourself Down, he
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/6dn3n7-falling-moons-singles-awareness-day-all-dayer-15th-feb-the-george-tavern-london-tickets'>George Tavern: Dream Slugs / Lifepath99 / S.W Gothic / ...</a>
 
-Another George all-dayer, this time organised by Falling Moon: celebrating Singles Awareness Day & 'love in all forms' - with a lineup of new & interesting bands. 
+Another George all-dayer, this time organised by Falling Moon: celebrating Singles Awareness Day & 'love in all forms' - with a lineup of new and interesting bands. 
 
 
 <a class='gig-tix' target=_blank href='https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DDE2521D-973B-4BD4-9674-CDE447F70789&BOparam::WScontent::loadArticle::context_id=0DD01DBE-4EBD-4D79-A4C0-C792E2C7F3ED'>BFI Southbank: Harvey (1950)</a>

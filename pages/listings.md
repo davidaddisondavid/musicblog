@@ -6,48 +6,43 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>Feb 2 - 8</h1>
+<h1 id='week'>Feb 9 - 15</h1>
 
 
-<h2 class='date'>Monday 2nd</h2>
+<h2 class='date'>Monday 9th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bwxl-caleb-nichols-2nd-feb-next-door-records-two-london-tickets'>Next Door Records 2: Caleb Nichols / Charley Stone / Lemonade Sin</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/xe6vlk-university-my-theatre-friend-sativa-jawsgirl-9th-feb-windmill-brixton-london-tickets'>Windmill Brixton: UNIVERSITY / My Theatre Friend / Sativa / Jawsgirl</a>
 
-Last year, on a break from tour, I stayed for a few days in a beautiful and friendly town in California called San Luis Obispo. Caleb Nichols is the Poet Laureate of that town – as well as their poetry they also make clever, fun indie rock. Their latest album 'Stone Age Is Back' deals with the pain and absurdity of living at a time of climate crisis.
+The latest edition of Pindrop magazine's monthly residency at the Windmill, raising money for MAP. Headliners UNIVERSITY are an explosive emo group, accompanied on stage by their friend Eddie, who sits on the floor wearing a balaclava and playing xbox. They are incredible to watch live - loud, fast and obtuse. Underneath the noise, the songs are funny and deliberately crafted, they're a proper one of a kind band. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/yo6bdr-new-music-mondays-20263-2nd-feb-windmill-brixton-london-tickets'>Windmill Brixton: New Music Mondays</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8ekmp7-mechatok-9th-feb-village-underground-london-tickets'>Village Underground: Mechatok / Zukovstheworld / Deer Park / The Mass Transit Incident</a>
 
-Another new music night at the Windmill: this edition is headlined by Arthur Robijins, who used to sing in the folk-rock group Pushpin – a lovely band & group of people who played their final show last year - and Ewan Samms, a brilliant singer-songwriter accompanied by live projections.
+Awesome lineup at Village Underground, headlined by alt-pop / electronic artist & longtime Drain Gang colllaborator Mechatok, along with underground rapper Zukovstheworld, NYC producer / hypnagogic pop artist Deer Park (off the back of a great new single, 'Black Cat', feat. Ivy Knight), and a mysterious new artist called The Mass Transit Incident. I'm a really big fan of Deer Park especially, and their headline show at Corsica on Tuesday is sold out - so this is your best chance to catch them live!
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/g5dnm5-red-ivory-contrail-misery-pleasure-2nd-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Red Ivory / Contrail / Misery Pleasure</a>
+<h2 class='date'>Tuesday 10th</h2>
 
-Noisy night at the Shacklewell, headlined by the arty & grungey 4-piece Red Ivory, with math rock band Contrails joining from Leeds.
+<a class='gig-tix' target=_blank href='https://dice.fm/event/py9okl-kaidi-akinnibi-alex-cosmo-blake-kristina-rhodes-10th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Kaidi Akinnibi / Alex Cosmo Blake / Kristina Rhodes</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3ry2-big-sexy-noise-lydia-lunch-gallon-drunk-jawharp-2nd-feb-corsica-studios-london-tickets'>Corsica Studios: Big Sexy Noise (Lydia Lunch & Gallon Drunk) / Jawharp</a>
+Kaidi Akinnibi is a saxophonist who has collaborated with an incredible array of artists - his credits include: black midi, Tom Misch, Ezra Collective, Wizkid, Kokoroko and more. Here, he performs a set of his own material - often led by sax, but playing with elements of punk, shoegaze and indie. The lineup is filled out by 3 more jazz-adjacent artists with amazing credentials as session musicians. 
+ 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/6dnakb-2b2c-rope-burn-pollyfromthedirt-wazdaka-10th-feb-the-george-tavern-london-tickets'>Rope Burn / Pollyfromthedirt / Wazdaka</a>
 
-Lydia Lunch, of the 70s NYC no wave band Teenage Jesus & The Jerks, unites with former members of the London post-punk group Gallon Drunk. This is the first of two nights at Corsica, supported by the noisy scrappy post-hardcore group Jawharp.
+A night of alt folk at the George, headlined by the lowkey orchestral ensemble Rope Burn. Also on the lineup, I'm a huge fan of Pollyfromthedirt and their scrappy, hallucinogenic songs about England and Englishness
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av3o5v-futureform-10th-feb-the-social-london-tickets'>The Social: Goodbye / The North / The Glowworms</a>
+
+New music showcase at the Social, with Brighton's Goodbye - a dreamy, groovy band with soaring vocals, guitars and synth lines - joined by Leeds Indie rockers The North and the excellent Glowworms - a post-rock/post-folk group. 
+
+<h2 class='date'>Wednesday 11th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v3o867-jerkcurb-11th-feb-earth-london-tickets'>EartH: Jerkcurb / Sarah Meth</a>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3og5lv-long-distance-runner-residency-2-11th-feb-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Long Distance Runner / Kissing Gate / Mabel Clarke</a>
 
 
-<h2 class='date'>Tuesday 3rd</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3ond-altychick-sola-guinto-htmljones-mdx-abrzy-3rd-feb-the-old-blue-last-london-tickets'>Old Blue Last: $altychick / sola guinto / htmljones / MDX / abrzy</a>
-
-The Old Blue Last hosts Hong-Kong 'fuck girl emo rap' megastar $altychick, supported by a varied lineup of alternative pop and hip hop artists from London and beyond.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oegoga-pigeon-lttl-mort-3rd-feb-the-george-tavern-london-tickets'>George Tavern: Pigeon / lttl mort</a>
-
-Pigeon are a 5-piece band from Margate, blending elements of 'Afro-disco, grunge, no wave and jazz'. Supported by the manic breakbeat crooners lttl mort.
 
 
-<h2 class='date'>Wednesday 4th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8e8xx7-hideous-panda-test-plan-martial-arts-francis-pig-sam-abbo-4th-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Test Plan / Martial Arts / Francis Pig / Sam Abbo</a>
-
-Collaborative show put on by the labels Hideous Mink and fierce panda, presenting a lineup of 4 sick new bands. I saw Martial Arts last week at the Windmill on Wednesday & was blown away, I hadn't seen them in a little bit and they've gotten crazy good. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/92wlpo-long-distance-runner-residency-1-4th-feb-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes:  Long Distance Runner / Magda / Compost Compost Compost</a>
-
-First edition of a 4 week residency from the instrumental post-rock group Long Distance Runner, dealing in delay and catharsis. They're joined this time around by the post-punk group Magda - equally intense, chaotic and ethereal. 
 
 <h2 class='date'>Thursday 5th</h2>
 

@@ -12,7 +12,7 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/xe6vlk-university-my-theatre-friend-sativa-jawsgirl-9th-feb-windmill-brixton-london-tickets'>Windmill Brixton: UNIVERSITY / My Theatre Friend / Sativa / Jawsgirl</a>
 
-The latest edition of Pindrop magazine's monthly residency at the Windmill, raising money for MAP. Headliners UNIVERSITY are an explosive emo group, accompanied on stage by their friend Eddie, who sits on the floor wearing a balaclava and playing xbox. They are incredible to watch live - loud, fast and obtuse. Underneath the noise, the songs are funny and deliberately crafted, they're a proper one of a kind band.
+The latest edition of Pindrop magazine's monthly residency at The Windmill, raising money for MAP. Headliners UNIVERSITY are an explosive emo group, accompanied on stage by their friend Eddie, who sits on the floor wearing a balaclava and playing xbox. They are incredible to watch live - loud, fast and obtuse. Underneath the noise, the songs are funny and deliberately crafted, they're a proper one of a kind band.
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/8ekmp7-mechatok-9th-feb-village-underground-london-tickets'>Village Underground: Mechatok / Zukovstheworld / Deer Park / The Mass Transit Incident</a>
 

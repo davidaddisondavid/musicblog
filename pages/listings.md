@@ -6,102 +6,106 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>Feb 2 - 8</h1>
+<h1 id='week'>Feb 9 - 15</h1>
+
+<h2 class='date'>Monday 9th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/xe6vlk-university-my-theatre-friend-sativa-jawsgirl-9th-feb-windmill-brixton-london-tickets'>Windmill Brixton: UNIVERSITY / My Theatre Friend / Sativa / Jawsgirl</a>
+
+The latest edition of Pindrop magazine's monthly residency at the Windmill, raising money for MAP. Headliners UNIVERSITY are an explosive emo group, accompanied on stage by their friend Eddie, who sits on the floor wearing a balaclava and playing xbox. They are incredible to watch live - loud, fast and obtuse. Underneath the noise, the songs are funny and deliberately crafted, they're a proper one of a kind band.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8ekmp7-mechatok-9th-feb-village-underground-london-tickets'>Village Underground: Mechatok / Zukovstheworld / Deer Park / The Mass Transit Incident</a>
+
+Awesome lineup at Village Underground, headlined by alt-pop / electronic artist & longtime Drain Gang collaborator Mechatok, along with underground rapper Zukovstheworld, NYC producer / hypnagogic pop artist Deer Park (off the back of a great new single, 'Black Cat', feat. Ivy Knight), and a mysterious new artist called The Mass Transit Incident (aka Kamixlo). I'm a really big fan of Deer Park especially, and their headline show at Corsica on Tuesday is sold out - so this is your best chance to catch them live!
+
+<h2 class='date'>Tuesday 10th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/py9okl-kaidi-akinnibi-alex-cosmo-blake-kristina-rhodes-10th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Kaidi Akinnibi / Alex Cosmo Blake / Kristina Rhodes</a>
+
+Kaidi Akinnibi is a saxophonist who has collaborated with an incredible array of artists - his credits include: black midi, Tom Misch, Ezra Collective, Wizkid, Kokoroko and more. Here, he performs a set of his own material - often led by sax, but playing with elements of punk, shoegaze and indie. The lineup is filled out by 3 more jazz-adjacent artists with amazing credentials as session musicians.
+ 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/6dnakb-2b2c-rope-burn-pollyfromthedirt-wazdaka-10th-feb-the-george-tavern-london-tickets'>George Tavern: Rope Burn / Pollyfromthedirt / Wazdaka</a>
+
+A night of alt folk at the George, headlined by the lowkey orchestral ensemble Rope Burn. Also on the lineup, I'm a huge fan of Pollyfromthedirt and their scrappy, hallucinogenic songs about England and Englishness.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av3o5v-futureform-10th-feb-the-social-london-tickets'>The Social: Goodbye / The North / The Glowworms</a>
+
+New music showcase at the Social, with Brighton's Goodbye - a dreamy, groovy band with soaring vocals, guitars and synth lines - joined by Leeds Indie rockers The North and the excellent Glowworms - a post-rock/post-folk group.
+
+<h2 class='date'>Wednesday 11th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v3o867-jerkcurb-11th-feb-earth-london-tickets'>EartH: Jerkcurb / Sarah Meth / LL Burns</a>
+
+Biggest ever headline for the subversive and brilliant singer-songwriter Jerkcurb, in the art-deco theatre at EartH Hackney. Jerkcurb's latest album , 'Night Fishing On A Calm Lake', is an atmospheric and blurry portrait of grief – he remains one of the most inventive and multifaceted artists in London. Support comes from the equally brilliant Sarah Meth and her alt-folk ballads. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3og5lv-long-distance-runner-residency-2-11th-feb-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Long Distance Runner / Kissing Gate / Mabel Clarke</a>
+
+The second week of the post-rock ensemble Long Distance Runner's residency at Dream Bags, with excellent supports in Kissing Gate - optimstic & tender folk-rock - and the 'alt-folk-emo-jam band' Mabel Clarke. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av3dld-majke-voss-plus-special-guest-matthew-muli-11th-feb-sjq-london-tickets'>Servant Jazz Quarters: Majke Voss / Matthew Muli</a>
+
+Majke Voss is a composer and singer-songwriter from Copenhagen. In 2014, she released an amazing album called 'May', under the artist name 'Broken Twin'. At the time NME called her 'the most arrestingly beautiful songwriter we’ve heard in aeons' - she has only just recently returned to releasing music after a decade long break, now under her owm name, with the delicate & swirling 'Coming Down'. 
+
+<h2 class='date'>Thursday 12th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av3okv-i-am-building-a-house-evelyn-gray-friends-12th-feb-the-george-tavern-london-tickets'>George Tavern: Evelyn Gray</a>
+
+Evelyn Gray, formerly of tapir!, has started a new project documenting the rooms of an abandoned apartment block and the people who used to live there. Her debut single 'Clotheslines', released last week, is gorgeous and groovy - and she'll be premiering more new songs at the George, with an all-star band. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bv7l-opal-mag-djank-moon-idle-12th-feb-next-door-records-two-london-tickets'>Next Door Records 2: Opal Mag / Djank / Moon Idle</a>
+
+A night of raw and heartfelt rock music in Stoke Newington. Special mention to Djank, and their alt-folk fuzzy rock - I love Djank.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3dy6-lip-filler-12th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Lip Filler</a>
+
+Get Lip Filler to New York! After 'one of the shortest hiatuses in history', the dance punk rockers return to the Windmill to raise money for a trip to NYC, to play the New Collossus festival in March.
+
+<h2 class='date'>Friday 13th</h2>
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2345390'>Ormside Projects: Brodinski / Significant Other / Scar</a>
+
+Promoters Kindred and Pain Management come together for 'a night of sub frequency exchange'  – headlined by Brodinski, the electronic music legend & co-producer of 'Black Skinhead', taking over the glorious Ormside Projects soundsystem.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8e5g-hiding-sidney-jones-the-murmuration-mia-rae-13th-feb-the-victoria-london-tickets'>The Victoria: Hiding / Sidney Jones & The Murmuration / Mia Rae</a>
+
+Nice varied lineup at the Victoria in Dalston, with fuzzy slacker rock from Hiding, folk pop from Sidney Jones & The Murmuration, and alternative R&B from Mia Rae.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2358713'>Social Spider: American Bacchanal</a>
+
+A mysterious and intriguing fundraiser/art show preview - inspired by the Roman festivals of Bacchus - with works, readings and performances interrogating the decadence of contemporary America. 
+
+<a class='gig-tix' target=_blank href='https://www.eventbrite.co.uk/e/pulse-of-the-planet-a-fund-raver-tickets-1980626159159'>Avalon Cafe: Pulse of the Planet! A Fund-RAVER</a>
+
+Fossil Free London present 'a night of solidarity, connection, and unmissable live performances and DJs; with all proceeds going to UK political prisoners.'
 
 
-<h2 class='date'>Monday 2nd</h2>
+<h2 class='date'>Saturday 14th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bwxl-caleb-nichols-2nd-feb-next-door-records-two-london-tickets'>Next Door Records 2: Caleb Nichols / Charley Stone / Lemonade Sin</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/wwrren-bathtime-valentines-special-14th-feb-the-george-tavern-london-tickets'>George Tavern: Glasshouse Red Spider Mite / Jenny Kennedy / Conus Sp. Bent / ...</a>
 
-Last year, on a break from tour, I stayed for a few days in a beautiful and friendly town in California called San Luis Obispo. Caleb Nichols is the Poet Laureate of that town – as well as their poetry they also make clever, fun indie rock. Their latest album 'Stone Age Is Back' deals with the pain and absurdity of living at a time of climate crisis.
+Valentines all-dayer from Skydaddy's Bathtime Sounds collective. With, among others, the delicate, spiralling slowcore of G.H.R.S.M and Jenny Kennedy, a new project from Tyler Hyde of BCNR
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/yo6bdr-new-music-mondays-20263-2nd-feb-windmill-brixton-london-tickets'>Windmill Brixton: New Music Mondays</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/wwrn5r-dancing-barefoot-our-bloody-valentines-day-14th-feb-moth-club-london-tickets'>MOTH Club: Our Bloody Valentine's Day</a>
 
-Another new music night at the Windmill: this edition is headlined by Arthur Robijins, who used to sing in the folk-rock group Pushpin – a lovely band & group of people who played their final show last year - and Ewan Samms, a brilliant singer-songwriter accompanied by live projections.
+An evening of lovesongs organised by the team behind David Byrne's Night, with a vast & talented cast of musicians performing songs of 'love, lust and heartbreak'. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/g5dnm5-red-ivory-contrail-misery-pleasure-2nd-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Red Ivory / Contrail / Misery Pleasure</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/q27q7p-heartbreak-hotel-14th-feb-the-standard-london-london-tickets'>The Standard: Heartbreak Hotel</a>
 
-Noisy night at the Shacklewell, headlined by the arty & grungey 4-piece Red Ivory, with math rock band Contrails joining from Leeds.
+Tarot card readings, poetry & performances from Avice Caro and DJ Charlie Gosling in the library of the Standard Hotel.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3ry2-big-sexy-noise-lydia-lunch-gallon-drunk-jawharp-2nd-feb-corsica-studios-london-tickets'>Corsica Studios: Big Sexy Noise (Lydia Lunch & Gallon Drunk) / Jawharp</a>
+<h2 class='date'>Sunday 15th</h2>
 
-Lydia Lunch, of the 70s NYC no wave band Teenage Jesus & The Jerks, unites with former members of the London post-punk group Gallon Drunk. This is the first of two nights at Corsica, supported by the noisy scrappy post-hardcore group Jawharp.
+<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/ruth-gollers-skylla-pando-pando/'>Cafe Oto: Ruth Goller's Skylla / Pando Pando</a>
 
+Ruth Goller is the bassist in the experimental jazz group Melt Yourself Down, her own music 'is otherworldly and defiantly unclassifiable — far-out sibilant ice age siren songs that haunt like something conjured in a fever dream'. Her performance will be accompanied by live visuals from Ross Adams.
 
-<h2 class='date'>Tuesday 3rd</h2>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/6dn3n7-falling-moons-singles-awareness-day-all-dayer-15th-feb-the-george-tavern-london-tickets'>George Tavern: Dream Slugs / Lifepath99 / S.W Gothic / ...</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3ond-altychick-sola-guinto-htmljones-mdx-abrzy-3rd-feb-the-old-blue-last-london-tickets'>Old Blue Last: $altychick / sola guinto / htmljones / MDX / abrzy</a>
-
-The Old Blue Last hosts Hong-Kong 'fuck girl emo rap' megastar $altychick, supported by a varied lineup of alternative pop and hip hop artists from London and beyond.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oegoga-pigeon-lttl-mort-3rd-feb-the-george-tavern-london-tickets'>George Tavern: Pigeon / lttl mort</a>
-
-Pigeon are a 5-piece band from Margate, blending elements of 'Afro-disco, grunge, no wave and jazz'. Supported by the manic breakbeat crooners lttl mort.
+Another George all-dayer, this time organised by Falling Moon: celebrating Singles Awareness Day & 'love in all forms' - with a lineup of new & interesting bands. 
 
 
-<h2 class='date'>Wednesday 4th</h2>
+<a class='gig-tix' target=_blank href='https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DDE2521D-973B-4BD4-9674-CDE447F70789&BOparam::WScontent::loadArticle::context_id=0DD01DBE-4EBD-4D79-A4C0-C792E2C7F3ED'>BFI Southbank: Harvey (1950)</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8e8xx7-hideous-panda-test-plan-martial-arts-francis-pig-sam-abbo-4th-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Test Plan / Martial Arts / Francis Pig / Sam Abbo</a>
+An adaptation of the Pulitzer Prize-winning stage play, starring Jimmy Stewart and a 6 foot tall rabbit. 
 
-Collaborative show put on by the labels Hideous Mink and fierce panda, presenting a lineup of 4 sick new bands. I saw Martial Arts last week at the Windmill on Wednesday & was blown away, I hadn't seen them in a little bit and they've gotten crazy good. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/92wlpo-long-distance-runner-residency-1-4th-feb-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes:  Long Distance Runner / Magda / Compost Compost Compost</a>
-
-First edition of a 4 week residency from the instrumental post-rock group Long Distance Runner, dealing in delay and catharsis. They're joined this time around by the post-punk group Magda - equally intense, chaotic and ethereal. 
-
-<h2 class='date'>Thursday 5th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/6dn9r8-noise-new-original-improvised-sound-ensemble-5th-feb-morocco-bound-london-tickets'>Morrocco Bound: NOISE (New Original Improvised Sound Ensemble)</a>
-
-The start of a new monthly improvisational series at Morrocco Bound, the sweet little bookshop/cafe on Bermondsey Street – featuring an all star trio of improvisers led by drummer Ewan Moore.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/92wvan-improvs-greatest-hits-5th-feb-the-george-tavern-london-tickets'>George Tavern: Improv's Greatest Hits</a>
-
-More Thursday improv, what's going on! This night at the George is being hosted by Improv's Greatest Hits, a 'London & Bristol based collective using improvised music as a vehicle to mix musical & social scenes'.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bnpw-bugbear-dog-saints-rope-burn-5th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Bugbear / Dog Saints / Rope Burn</a>
-
-Headline show from the jazzy, whimsical & unpredictable trio Bugbear, joined by 'green mind emo-gaze' group Dog Saints and art-rockers Rope Burn.
-
-<h2 class='date'>Friday 6th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2wkxo6-diy-magazine-launch-party-featuring-demob-happy-6th-feb-the-lexington-london-tickets'>The Lexington: DIY Magazine Launch Party with Demob Happy / Hot Face</a>
-
-Launch of DIY's February issue, headlined by Demob Party performing music from their latest album 'The Grown-Ups Are Talking' - which <a target=_blank href='https://whenthehornblows.com/content/2026/1/30/album-review-demob-happy-the-grown-ups-are-talking'>When The Horn Blows</a> calls 'a riff-laden carnival from the first note'. Joined on the night by the masked Speedy Wunderground alumni Hot Face.
-
-<a class='gig-tix' target=_blank href='https://www.windmillbrixton.co.uk/events/2026-02-06-radio-waves-goodbye-little-mort-ashnymph-jef-jimps-the-windmill'>Windmill Brixton: Radio Waves Goodbye / Lttl Mort / Ashnymph / Jef Jimps</a>
-
-A sick night of dance-punk at the Windmill. Lttl Mort play again, alongside headliners Radio Waves Goodbye and Ashnymph - I saw them last year and loved it, kind of reminded me of 2000s new rave, check out their single 'Salt Spreader'.
-
-<a class='gig-tix' target=_blank href='https://www.eventbrite.co.uk/e/guest-event-dorothy-performing-sea-songs-tickets-1980627457041'>Theatreship: Dorothy / Clari FT</a>
-
-On the music boat in Canary Wharf, London folk/electronic supergroup Dorothy give their first live show, following the release of their brilliant and mystical debut EP 'Sea Songs'. Supported by captain Clari of mary in the junkyard (hell yeah).
-
-<h2 class='date'>Saturday 7th</h2>
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2328921'>Vespers Club: Tatyana / Big Softy / MM'99 / Poppy Richler / Areola Grande Latte / Technodaddy666</a>
-
-A mad night organised by the artist TATYANA. Club Amour, with electronic music spanning from ethereal dance music to sleazy hyperpop - is 'centred on connection and intimacy within the club space.'
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/g5dg82-private-life-007-gyeongsu-more-7th-feb-the-george-tavern-london-tickets'>George Tavern, PRIVATE LIFE 007: Gyeongsu / Any / Camille!</a>
-
-Exciting mixed media night at the George, organised by PRIVATE LIFE: 'a continuing project championing alternative and forward thinking audio/visual artists' 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/av3ped-the-smugler-song-circle-1-7th-feb-new-river-studios-london-tickets'>New River Studios: The Smugler Song Circle #1</a>
-
-New River Studios in North London hosts a collective of some of London's best experimental folk artists, check out the amazing diagram on the poster.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/7dpqqb-ninush-live-signing-7th-feb-rough-trade-denmark-street-london-tickets'>Rough Trade Denmark Street: Ninush (Live & Signing)</a>
-
-Rough Trade hosts an instore performance and signing for the spellbinding orchestral alt-pop artist Ninush, celebrating the release of her debut EP 'The Flowers I See You In'.
-
-<h2 class='date'>Sunday 8th</h2>
-
-<a class='gig-tix' target=_blank href='https://www.instagram.com/p/DT-aQ6ajZKQ/'>Avalon Cafe: 'A Friend of the Devil' Film Premiere & Zine Launch</a>
-
-This sounds incredible, the premiere of a short film 'about perseverance and the world's largest Medieval book', alongside the launch of an accompanying zine. Starts at 2pm, with vinyl DJ sets before and after and tickets available on the door.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/q279y9-materials-of-sound-s-castonguay-bunty-m-leckey-8th-feb-iklectik-london-tickets'>IKLEKTIK, Materials of sound: Stephanie Castonguay / BUNTY / Mark Leckey</a>
-
-An eclectic night of experimental music, exploring 'sound as a physical force moving through bodies, machines, and collective spaces.' Featuring hand-crafted instruments, electronic & physical manipulation, and intricate layers of noise.
 

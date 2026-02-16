@@ -6,106 +6,124 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>Feb 9 - 15</h1>
+<h1 id='week'>Feb 16 - 22</h1>
 
-<h2 class='date'>Monday 9th</h2>
+<h2 class='date'>Monday 16th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/xe6vlk-university-my-theatre-friend-sativa-jawsgirl-9th-feb-windmill-brixton-london-tickets'>Windmill Brixton: UNIVERSITY / My Theatre Friend / Sativa / Jawsgirl</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2368113'>Ormside Projects: My New Band Believe (Numerology) / wing! DJ set</a>
 
-The latest edition of Pindrop magazine's monthly residency at The Windmill, raising money for MAP. Headliners UNIVERSITY are an explosive emo group, accompanied on stage by their friend Eddie, who sits on the floor wearing a balaclava and playing xbox. They are incredible to watch live - loud, fast and obtuse. Underneath the noise, the songs are funny and deliberately crafted, they're a proper one of a kind band.
+My New Band Believe play at Ormside with an all star band featuring Jennifer Walton - the noisy electronic artist, NTS producer and collaborator with artists like caroline & Kero Kero Bonito - and 96back - the producer and DJ who performs with Walton and aya in the project Microplastics. This show is a kind of release party for MNBB's new single 'Numerology', out tomorrow with a haywire video. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8ekmp7-mechatok-9th-feb-village-underground-london-tickets'>Village Underground: Mechatok / Zukovstheworld / Deer Park / The Mass Transit Incident</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/nvk79l-comafields-blue-bayou-homebread-16th-feb-sebright-arms-london-tickets'>Sebright Arms: Comafields / Blue Bayou / Homebread</a>
 
-Awesome lineup at Village Underground, headlined by alt-pop / electronic artist & longtime Drain Gang collaborator Mechatok, along with underground rapper Zukovstheworld, NYC producer / hypnagogic pop artist Deer Park (off the back of a great new single, 'Black Cat', feat. Ivy Knight), and a mysterious new artist called The Mass Transit Incident (aka Kamixlo). I'm a really big fan of Deer Park especially, and their headline show at Corsica on Tuesday is sold out - so this is your best chance to catch them live!
+3 band bill of Shoegaze, Emo and Slacker rock in the Sebright basement from promoters Scream/Shout. 
 
-<h2 class='date'>Tuesday 10th</h2>
+<hr>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/py9okl-kaidi-akinnibi-alex-cosmo-blake-kristina-rhodes-10th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Kaidi Akinnibi / Alex Cosmo Blake / Kristina Rhodes</a>
+<h2 class='date'>Tuesday 17th</h2>
 
-Kaidi Akinnibi is a saxophonist who has collaborated with an incredible array of artists - his credits include: black midi, Tom Misch, Ezra Collective, Wizkid, Kokoroko and more. Here, he performs a set of his own material - often led by sax, but playing with elements of punk, shoegaze and indie. The lineup is filled out by 3 more jazz-adjacent artists with amazing credentials as session musicians.
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8e6bp5-hank-green-star-winter-haiku-17th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Hank / green star / Winter Haiku</a>
+
+Cool moody music at the Windmill – with headliners Hank, noisy and tender, playing before they head out on tour with Sorry. green star are in a similar world, lots of layered distortion and grime with sweet melodies breaking through. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/537gwy-new-lands-presents-fowl-song-17th-feb-the-ivy-house-london-tickets'>Ivy House: New Lands presents Fowl Song</a>
+
+In house promoters at the lovely Ivy House are putting on a night of poetry and music, in collaboration with the writers Rowe Irvin and Candle Hirst. Music comes from the Shovel Dance Collective member Mataio Austin-Dean, & the multidisciplinary artist Ula Taylor-Reilly. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3owoyx-othrwld-imissmymom-17th-feb-below-stone-nest-london-tickets'>Below Stone Nest: Othrwld / IMISSMYMOM</a>
+
+Interesting double bill under Stone Nest in Soho, Othrwld is an underground R&B artist & producer, making music that 'exists somewhere between the digital and the human'. He has previously released a track with the cloud rap pioneer Lil B - which you can listen to on a NTS show he did last year with the label Scenic Route. He's joined on this show by the band IMISSMYMOM - 'the sound of raw emotion slamming into a wall of heavy distortion', who make kind of deconstructed, twisted emo music.  
+
+<a class='gig-tix' target=_blank href='https://www.ica.art/talks/workshop-i-want-to-tend-the-earth-for-you'>ICA: i want to tend the Earth for you</a>
+
+Writing and movement workshop on the first day of the Year of the Fire Horse. Themed around ecology, nature writing and the seed cycle, the event will end with a screening of the film 'i want to tend the Earth for you', by the Lithuanian filmmaker Džiuginta Mažulytė. 
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2258083'>Barbican Hall: Adrian Sherwood / African Head Charge / Speaker's Corner Quartet</a>
+
+Live performance from the celebrated Dub producer Adrian Sherwood, who has remixed artists like Sinead O'Connor, Depeche Mode, The Fall & The Cure. This event will see Sherwood 'live with his own band for the first time, bulldozing the boundaries between funk, reggae, dub and industrial noise.'
+
+<hr>
+
+<h2 class='date'>Wednesday 18th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/avpn2q-live-av-kwerk-ch20-bad-abstraction-bjorn-hatleskog-18th-feb-all-is-joy-london-tickets'>All Is Joy: kWeRk + CH20 / BAD ABSTRACTION / BJORN HATLESKOG</a>
+
+A night of audiovisual experiments in central London, headlined by the mangled modular synths & field recordings of kWeRk - 'with a focus on process, play & the dance between the utterances of sound machines and the sensibilities of their human operators.' Joined by CH20, 'drawing on her background in architecture to treat computational systems as spatial and sculptural material'.
+
+<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/apartment-house-perform-new-music-from-japan/'>Cafe Oto: Apartment House perform new music from Japan</a>
+
+The prolific contemporary music ensemble Apartment House - founded in 1995 by the British-Lithuanian performer, band leader, and composer Anton Lukoszevieze - will perform an array of new classical music from Japan, promising 'wholesome beauty, strangeness, noise, faraway sounds and nearby scrunch.'
+
+<a class='gig-tix' target=_blank href='https://www.metarialist.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn3ijk8OvuVyxEcwObkWSunCwpb-5jJaLPdZO6T-FjHovMIB9YBtrrF57Z6kk_aem_2APiMrO9DJLivHAJ-xLi1A'>209 Barnardo St: Pilote </a>
+
+Free private view of a new art show in Limehouse, organised by the artist & web designer Metarialist - the flyer (instagram post) has a bird, scattered petals and old wooden table. 
+
+<hr>
+
+<h2 class='date'>Thursday 19th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8e8k27-tgt-bog-band-max-winter-wykin-19th-feb-the-george-tavern-london-tickets'>George Tavern: bog band / Max Winter / Wykin</a>
+
+Killer night at the George, headlined by the Irish 'laptop soul' group bog band - I think they're brilliant, old sounds filtered into something new. Joined by Max Winter, who will be releasing a new song called 'Candlelight' the day before this show. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bg5x--screamo-bingo-2-19th-feb-moth-club-london-tickets'>MOTH Club: Screamo Bingo (My Rushmore / My Tiny Room / Sevy Verna / Winter Haiku)
+
+Second edition of Screamo Bingo at MOTH Club - a bingo night soundtracked by screamo bands, simple as that. This is a great lineup though, friends who are more tapped into the london screamo scene than me have said that Sevy Verna in particular are very very good. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oev5lg-virus-presents-f1lthy-mssingno-19th-feb-unlocked-shoreditch-london-tickets'>UNLOCKED: VIRUS presents F1LTHY & Mssingno</a>
+
+London underground rap promoters Virus are throwing another party at UNLOCKED in Shoreditch, headlined by F1LTHY - who has worked with rappers like Playboy Carti and Lil Yachty - and the twisted grime producer Mssngno. The rest of the lineup is filled out by some of the best and weirdest emerging UK rap / electronic artists.
+
+<hr>
+
+<h2 class='date'>Friday 20th</h2>
+
+<a class='gig-tix' target=_blank href='https://www.instagram.com/thelncc/?hl=en'>LNCC: The Femcels / MRWIZE / Sacha</a>
+
+London Fashion Week afterparty for the brand Lueder, with music from The Femcels who dropped their mad and brilliant debut album a couple of weeks ago. RSVP essential apparently: rsvp@ln-cc.com
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k69qm9-fat-concubine-radio-waves-goodbuy-lifeloose-20th-feb-farsight-gallery-london-tickets'>Farsight Gallery: Fat Concubine / Radio Waves Goodbye / Lifeloose</a>
+
+Farsight Gallery is a really interesting new space just off Denmark street, I saw an unplugged screamo show there last year and so many weird things happened - there was a bin filled with uncooked sausages, a chill biker gang sitting in the bar, and at one point a man carried a dog through tyhe middle of the seated crowd. This is a fun lineup of dancey / dance punk bands. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8k8v-kenichi-iwasa-elvin-brandhi-boy-lucid-aloisius-20th-feb-the-horse-hospital-london-tickets'>Horse Hospital: Kenichi Iwasa / Elvin Brandhi / Boy Lucid / aloisius</a>
+
+Improv and experimental music at the Horse Hospital with the Welsh auto-tune blast beat artist Elvin Brandhi and Krautrock Karaoke founder Kenichi Iwasa.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/mx3mrk-pubdance-birdfeeder-albertina-more-20th-feb-the-george-tavern-london-tickets'>George Tavern: Birdfeeder / Albertina / Stuart Mckenzie</a>
+
+'Pubdance' night at the George, with live sets from electronic artist and Atomiser founder Birdfeeder, singer and DJ Albertina,  and poet/spoken word artist Stuart Mckenzie – joined by an array of DJs deep into the night.
+
+<hr>
+
+<h2 class='date'>Saturday 21st</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oegwoy-fundraiser-for-aid-in-gaza-all-ticket-sales-go-to-the-muslim-global-relief-foundations-gaza-appeal-21st-feb-sebright-arms-london-tickets'>Sebright Arms: Gaza Fundraiser</a>
+
+Massive all-dayer at the Sebright, raising money for the Muslim Global Relief Foundation's Gaza appeal. There's so many great artists playing, across a wide range of genres – to pick out a few, there's the ghostly, dreamy LOLA; the dub-folk duo Mimiko, and Good Bad Happy Sad member Raisa K. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/2wkp5p-middleman-following-the-ghost-album-release-show-21st-feb-the-george-tavern-london-tickets'>George Tavern: Middleman / Gimic / Eel Men / Hoof</a>
+
+Album release show for the London punks Middleman - their debut album, 'Following the Ghost' is great, closer to the tortured melodies of American punks like the Replacements than to the UK punk scene, loads of nice distortion and a lead singer with a great Westerberg-esque howl. 
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2294416'>Palais: mad miran b2b Pariah</a>
+
+After a decade away, Palais has reopened on Rye Lane in Peckham - with a 500 capacity club and a freshly refurbished Ballroom. This Saturday, the club is taken over by the renowned underground DJs mad miran and Pariah 'for a 6-hour winding journey in off-kilter techno, forward-thinking UK bass and more'. 
+
+<hr>
+
+<h2 class='date'>Sunday 22nd</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/rynkpw-metropolis-ft-live-original-score-matinee-22nd-feb-theatreship-london-tickets'>Theatreship: Metropolis (1927) w/ live score from Joe Harvey-Whyte</a>
+
+The boat in Canary Wharf hosts a screening of Fritz Lang's German expressionist classic 'Metropolis', accompanied by a live original score from the experimental pedal steel artist Joe Harvey-Whyte.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/eobxrd-tgt-mry-itsmyluckyday-gegenpress-swamp-22nd-feb-the-george-tavern-london-tickets'>George Tavern: mry / itsmyluckyday / Gegenpress / swamp</a>
+
+Great Sunday lineup at the George, headlined by (maybe) the best shoegaze band in London at the moment, mry, alongside folk-rockers itsmyluckyday and the exhilirating Gegenpress. Nice Sunday mix of dreamy textures to get lost in and loud loud noises to wake you up. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3onl98-resonance-fundraiser-night-1-cuckoo-spit-shoko-yoshida-aga-ujma-ramilda-22nd-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Cuckoo Spit / Shoko Yoshida / Aga Ujma / Ramilda</a>
+
+First day of a two day fundraiser event for Resonance, a non-profit community run radio station. This lineup features the 'spooky yet sweet' Cuckoo Spit (haven't seen them in a while, but was blown away the last time) and the composer / multi-instrumentalist Aga Ujma. 
  
-<a class='gig-tix' target=_blank href='https://dice.fm/event/6dnakb-2b2c-rope-burn-pollyfromthedirt-wazdaka-10th-feb-the-george-tavern-london-tickets'>George Tavern: Rope Burn / Pollyfromthedirt / Wazdaka</a>
-
-A night of alt folk at the George, headlined by the lowkey orchestral ensemble Rope Burn. Also on the lineup, I'm a huge fan of Pollyfromthedirt and their scrappy, hallucinogenic songs about England and Englishness.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/av3o5v-futureform-10th-feb-the-social-london-tickets'>The Social: Goodbye / The North / The Glowworms</a>
-
-New music showcase at the Social, with Brighton's Goodbye - a dreamy, groovy band with soaring vocals, guitars and synth lines - joined by Leeds Indie rockers The North and the excellent Glowworms - a post-rock/post-folk group.
-
-<h2 class='date'>Wednesday 11th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/v3o867-jerkcurb-11th-feb-earth-london-tickets'>EartH: Jerkcurb / Sarah Meth / LL Burns</a>
-
-Biggest ever headline for the subversive and brilliant singer-songwriter Jerkcurb, in the art-deco theatre at EartH Hackney. Jerkcurb's latest album , 'Night Fishing On A Calm Lake', is an atmospheric and blurry portrait of grief – he remains one of the most inventive and multifaceted artists in London. Support comes from the equally brilliant Sarah Meth and her alt-folk ballads. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3og5lv-long-distance-runner-residency-2-11th-feb-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Long Distance Runner / Kissing Gate / Mabel Clarke</a>
-
-The second week of the post-rock ensemble Long Distance Runner's residency at Dream Bags, with excellent supports in Kissing Gate - optimstic & tender folk-rock - and the 'alt-folk-emo-jam band' Mabel Clarke. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/av3dld-majke-voss-plus-special-guest-matthew-muli-11th-feb-sjq-london-tickets'>Servant Jazz Quarters: Majke Voss / Matthew Muli</a>
-
-Majke Voss is a composer and singer-songwriter from Copenhagen. In 2014, she released an amazing album called 'May', under the artist name 'Broken Twin'. At the time NME called her 'the most arrestingly beautiful songwriter we’ve heard in aeons' - she has only just recently returned to releasing music after a decade long break, now under her owm name, with the delicate & swirling 'Coming Down'. 
-
-<h2 class='date'>Thursday 12th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/av3okv-i-am-building-a-house-evelyn-gray-friends-12th-feb-the-george-tavern-london-tickets'>George Tavern: Evelyn Gray</a>
-
-Evelyn Gray, formerly of tapir!, has started a new project documenting the rooms of an abandoned apartment block and the people who used to live there. Her debut single 'Clotheslines', released last week, is gorgeous and groovy - and she'll be premiering more new songs at the George, with an all-star band. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bv7l-opal-mag-djank-moon-idle-12th-feb-next-door-records-two-london-tickets'>Next Door Records 2: Opal Mag / Djank / Moon Idle</a>
-
-A night of raw and heartfelt rock music in Stoke Newington. Special mention to Djank, and their alt-folk fuzzy rock - I love Djank.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eo3dy6-lip-filler-12th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Lip Filler</a>
-
-Get Lip Filler to New York! After 'one of the shortest hiatuses in history', the dance punk rockers return to the Windmill to raise money for a trip to NYC, to play the New Collossus festival in March.
-
-<h2 class='date'>Friday 13th</h2>
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2345390'>Ormside Projects: Brodinski / Significant Other / Scar</a>
-
-Promoters Kindred and Pain Management come together for 'a night of sub frequency exchange'  – headlined by Brodinski, the electronic music legend & co-producer of 'Black Skinhead', taking over the glorious Ormside Projects soundsystem.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8e5g-hiding-sidney-jones-the-murmuration-mia-rae-13th-feb-the-victoria-london-tickets'>The Victoria: Hiding / Sidney Jones & The Murmuration / Mia Rae</a>
-
-Nice varied lineup at the Victoria in Dalston, with fuzzy slacker rock from Hiding, folk pop from Sidney Jones & The Murmuration, and alternative R&B from Mia Rae.
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2358713'>Social Spider: American Bacchanal</a>
-
-A mysterious and intriguing fundraiser/art show preview - inspired by the Roman festivals of Bacchus - with works, readings and performances interrogating the decadence of contemporary America. 
-
-<a class='gig-tix' target=_blank href='https://www.eventbrite.co.uk/e/pulse-of-the-planet-a-fund-raver-tickets-1980626159159'>Avalon Cafe: Pulse of the Planet! A Fund-RAVER</a>
-
-Fossil Free London present 'a night of solidarity, connection, and unmissable live performances and DJs; with all proceeds going to UK political prisoners.'
-
-
-<h2 class='date'>Saturday 14th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwrren-bathtime-valentines-special-14th-feb-the-george-tavern-london-tickets'>George Tavern: Glasshouse Red Spider Mite / Jenny Kennedy / Conus Sp. Bent / ...</a>
-
-Valentines all-dayer from Skydaddy's Bathtime Sounds collective. With, among others, the delicate, spiralling slowcore of G.H.R.S.M and Jenny Kennedy, a new project from Tyler Hyde of BCNR
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwrn5r-dancing-barefoot-our-bloody-valentines-day-14th-feb-moth-club-london-tickets'>MOTH Club: Our Bloody Valentine's Day</a>
-
-An evening of lovesongs organised by the team behind David Byrne's Night, with a vast & talented cast of musicians performing songs of 'love, lust and heartbreak'. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/q27q7p-heartbreak-hotel-14th-feb-the-standard-london-london-tickets'>The Standard: Heartbreak Hotel</a>
-
-Tarot card readings, poetry & performances from Avice Caro and DJ Charlie Gosling in the library of the Standard Hotel.
-
-<h2 class='date'>Sunday 15th</h2>
-
-<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/ruth-gollers-skylla-pando-pando/'>Cafe Oto: Ruth Goller's Skylla / Pando Pando</a>
-
-Ruth Goller is the bassist in the experimental jazz group Melt Yourself Down, her own music 'is otherworldly and defiantly unclassifiable — far-out sibilant ice age siren songs that haunt like something conjured in a fever dream'. Her performance will be accompanied by live visuals from Ross Adams.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/6dn3n7-falling-moons-singles-awareness-day-all-dayer-15th-feb-the-george-tavern-london-tickets'>George Tavern: Dream Slugs / Lifepath99 / S.W Gothic / ...</a>
-
-Another George all-dayer, this time organised by Falling Moon: celebrating Singles Awareness Day & 'love in all forms' - with a lineup of new and interesting bands. 
-
-
-<a class='gig-tix' target=_blank href='https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=DDE2521D-973B-4BD4-9674-CDE447F70789&BOparam::WScontent::loadArticle::context_id=0DD01DBE-4EBD-4D79-A4C0-C792E2C7F3ED'>BFI Southbank: Harvey (1950)</a>
-
-An adaptation of the Pulitzer Prize-winning stage play, starring Jimmy Stewart and a 6 foot tall rabbit. 
-
 

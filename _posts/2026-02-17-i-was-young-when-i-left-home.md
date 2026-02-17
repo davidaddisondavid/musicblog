@@ -11,11 +11,13 @@ title: I Was Young When I Left Home
 
     p {
         line-height: 35px;
+        font-size: 15px;
     }
 
     @media only screen and (min-width: 572px) {
         p {
             margin: 0 40px 0;
+            font-size: 13px;
         }
     }
 

@@ -17,6 +17,12 @@ title: I Was Young When I Left Home
     @media only screen and (min-width: 572px) {
         p {
             margin: 0 40px 0;
+        }
+
+    }
+
+    @media only screen and (max-width: 572px) {
+        p{
             font-size: 13px;
         }
     }

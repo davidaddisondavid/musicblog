@@ -23,7 +23,12 @@ title: I Was Young When I Left Home
     @media only screen and (max-width: 572px) {
         p {
             font-size: 0.8rem;
+            line-height: 20px
         }
+
+    blockquote p {
+        line-height: 17.5px;
+    }
 
     }
     
@@ -90,7 +95,7 @@ Dylan's words, offhand and drawling, seem to predict the rich history of cover v
 > Wanna back home again <br>
 > But I can't go home this way <br>
 
-&nbsp; &nbsp; &nbsp; But it's there again in the howl of "No direction home" from 'Like a Rolling Stone', and in the title of the documentary 'Dont Look Back', it's carried right through to the latter end of his career with 'Things have changed' and in 'Mississipi' from *Love and Theft* – "You can always come back, but you can't come back all the way".
+But it's there again in the howl of "No direction home" from 'Like a Rolling Stone', and in the title of the documentary 'Dont Look Back', it's carried right through to the latter end of his career with 'Things have changed' and in 'Mississipi' from *Love and Theft* – "You can always come back, but you can't come back all the way".
 The life of a troubadour, to keep on rambling, further and further away from home. You never go back there, but you never stop singing about it. 
 
 <hr class='home-break'>

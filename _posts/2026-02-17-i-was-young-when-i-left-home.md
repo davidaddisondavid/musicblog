@@ -11,7 +11,7 @@ title: I Was Young When I Left Home
 
     p {
         line-height: 35px;
-        font-size: 1.25rem;
+        font-size: 1.1rem;
     }
 
     @media only screen and (min-width: 572px) {

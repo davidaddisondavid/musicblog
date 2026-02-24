@@ -6,124 +6,119 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>Feb 16 - 22</h1>
+<h1 id='week'>Feb 23 - Mar 1 </h1>
 
-<h2 class='date'>Monday 16th</h2>
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2368113'>Ormside Projects: My New Band Believe (Numerology) / wing! DJ set</a>
-
-My New Band Believe play at Ormside with an all star band featuring Jennifer Walton - the noisy electronic artist, NTS producer and collaborator with artists like caroline & Kero Kero Bonito - and 96back - the producer and DJ who performs with Walton and aya in the project Microplastics. This show is a kind of release party for MNBB's new single 'Numerology', out tomorrow with a haywire video. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/nvk79l-comafields-blue-bayou-homebread-16th-feb-sebright-arms-london-tickets'>Sebright Arms: Comafields / Blue Bayou / Homebread</a>
-
-3 band bill of Shoegaze, Emo and Slacker rock in the Sebright basement from promoters Scream/Shout. 
+<p class='intro'>
+    Lorem Ipsum
+</p>
 
 <hr>
 
+
 <h2 class='date'>Tuesday 17th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8e6bp5-hank-green-star-winter-haiku-17th-feb-windmill-brixton-london-tickets'>Windmill Brixton: Hank / green star / Winter Haiku</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/pyrrmk-in-the-round-flur-gal-go-24th-feb-ica-institute-of-contemporary-arts-london-tickets'>ICA: Flur / GAL GO</a>
 
-Cool moody music at the Windmill – with headliners Hank, noisy and tender, playing before they head out on tour with Sorry. green star are in a similar world, lots of layered distortion and grime with sweet melodies breaking through. 
+Experimental Jazz double header for the ICA's 'in the round' series – where the stage is set up in the middle of the room, surrounded by the audience and the venue's 'state-of-the-art 360° soundsystem'. Flur are a dizzying & ethereal harp/sax/drum trio, who released their debut album 'Plunge' last year; while GAL GO is the heavy, misty, brooding project of Ignacio Salvadore – multi-instrumentalist & longtime collaborator with King Krule. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/537gwy-new-lands-presents-fowl-song-17th-feb-the-ivy-house-london-tickets'>Ivy House: New Lands presents Fowl Song</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/wwr6rn-truthpaste-pollyfromthedirt-fly-the-nest-24th-feb-below-stone-nest-london-tickets'>Below Stone Nest: Truthpaste / Pollyfromthedirt</a>
 
-In house promoters at the lovely Ivy House are putting on a night of poetry and music, in collaboration with the writers Rowe Irvin and Candle Hirst. Music comes from the Shovel Dance Collective member Mataio Austin-Dean, & the multidisciplinary artist Ula Taylor-Reilly. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3owoyx-othrwld-imissmymom-17th-feb-below-stone-nest-london-tickets'>Below Stone Nest: Othrwld / IMISSMYMOM</a>
-
-Interesting double bill under Stone Nest in Soho, Othrwld is an underground R&B artist & producer, making music that 'exists somewhere between the digital and the human'. He has previously released a track with the cloud rap pioneer Lil B - which you can listen to on a NTS show he did last year with the label Scenic Route. He's joined on this show by the band IMISSMYMOM - 'the sound of raw emotion slamming into a wall of heavy distortion', who make kind of deconstructed, twisted emo music.  
-
-<a class='gig-tix' target=_blank href='https://www.ica.art/talks/workshop-i-want-to-tend-the-earth-for-you'>ICA: i want to tend the Earth for you</a>
-
-Writing and movement workshop on the first day of the Year of the Fire Horse. Themed around ecology, nature writing and the seed cycle, the event will end with a screening of the film 'i want to tend the Earth for you', by the Lithuanian filmmaker Džiuginta Mažulytė. 
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2258083'>Barbican Hall: Adrian Sherwood / African Head Charge / Speaker's Corner Quartet</a>
-
-Live performance from the celebrated Dub producer Adrian Sherwood, who has remixed artists like Sinead O'Connor, Depeche Mode, The Fall & The Cure. This event will see Sherwood 'live with his own band for the first time, bulldozing the boundaries between funk, reggae, dub and industrial noise.'
+Awesome double up of two up-and-coming, entirely unique artists: Truthpaste are lots of fun, a large alt-folk ensemble with a 'trusty computer drum'. And on before them, the masked & mysterious Pollyfromthedirt makes surreal, hypnagogic ballads – often about the particular weirdness of England & Englishness. Seems to have been lots of cool shows happening at the Stone Nest recently, definitely a venue to keep an eye on!
 
 <hr>
 
 <h2 class='date'>Wednesday 18th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/avpn2q-live-av-kwerk-ch20-bad-abstraction-bjorn-hatleskog-18th-feb-all-is-joy-london-tickets'>All Is Joy: kWeRk + CH20 / BAD ABSTRACTION / BJORN HATLESKOG</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8dkx-tgt-djank-ignoring-izzy-jonique-25th-feb-the-george-tavern-london-tickets'>George Tavern: djank / Ignoring Izzy / Jonique</a>
 
-A night of audiovisual experiments in central London, headlined by the mangled modular synths & field recordings of kWeRk - 'with a focus on process, play & the dance between the utterances of sound machines and the sensibilities of their human operators.' Joined by CH20, 'drawing on her background in architecture to treat computational systems as spatial and sculptural material'.
+Great indie rock lineup at the George. Opened by a solo set from Jonique, who also plays in headliners Djank – a brilliant, rightfully janky indie country band, in the vein of artists like Wednesday & Westside Cowboy. 
 
-<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/apartment-house-perform-new-music-from-japan/'>Cafe Oto: Apartment House perform new music from Japan</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/nvw29q-maria-somerville-25th-feb-the-dome-london-tickets'>The Dome: Maria Somerville</a>
 
-The prolific contemporary music ensemble Apartment House - founded in 1995 by the British-Lithuanian performer, band leader, and composer Anton Lukoszevieze - will perform an array of new classical music from Japan, promising 'wholesome beauty, strangeness, noise, faraway sounds and nearby scrunch.'
+Kind of can't believe this still has tickets available! (at time of writing) Maria Somerville's second album, 'Luster', was one of the best of last year – ancient, folkloric shoegaze. She followed it up with a great remix EP last month, YHWH Nailgun's take on 'Violet' is particularly sick. Her NTS Early Bird Show is also one of my favourite regular programmes, though I'm rarely awake early enough to listen live.
 
-<a class='gig-tix' target=_blank href='https://www.metarialist.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn3ijk8OvuVyxEcwObkWSunCwpb-5jJaLPdZO6T-FjHovMIB9YBtrrF57Z6kk_aem_2APiMrO9DJLivHAJ-xLi1A'>209 Barnardo St: Pilote </a>
 
-Free private view of a new art show in Limehouse, organised by the artist & web designer Metarialist - the flyer (instagram post) has a bird, scattered petals and old wooden table. 
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v3qak7-long-distance-runner-residency-4-25th-feb-dream-bags-jaguar-shoes-london-tickets
+'>Dream Bags Jaguar Shoes: Long Distance Runner / Maiden / studio20</a>
 
-<hr>
+The finale of Long Distance Runner's month long residency at Dream Bags, which has had consistently great opening lineups – this last time the post-rock ensemble are joined by the spiky, gothic shoegazers Maiden, & the alt-pop/emo cyborgs studio20.
 
-<h2 class='date'>Thursday 19th</h2>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/2wepap-bathing-suits-25th-feb-the-lexington-london-tickets'>The Lexington: Bathing Suits</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8e8k27-tgt-bog-band-max-winter-wykin-19th-feb-the-george-tavern-london-tickets'>George Tavern: bog band / Max Winter / Wykin</a>
-
-Killer night at the George, headlined by the Irish 'laptop soul' group bog band - I think they're brilliant, old sounds filtered into something new. Joined by Max Winter, who will be releasing a new song called 'Candlelight' the day before this show. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bg5x--screamo-bingo-2-19th-feb-moth-club-london-tickets'>MOTH Club: Screamo Bingo (My Rushmore / My Tiny Room / Sevy Verna / Winter Haiku)
-
-Second edition of Screamo Bingo at MOTH Club - a bingo night soundtracked by screamo bands, simple as that. This is a great lineup though, friends who are more tapped into the london screamo scene than me have said that Sevy Verna in particular are very very good. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oev5lg-virus-presents-f1lthy-mssingno-19th-feb-unlocked-shoreditch-london-tickets'>UNLOCKED: VIRUS presents F1LTHY & Mssingno</a>
-
-London underground rap promoters Virus are throwing another party at UNLOCKED in Shoreditch, headlined by F1LTHY - who has worked with rappers like Playboy Carti and Lil Yachty - and the twisted grime producer Mssngno. The rest of the lineup is filled out by some of the best and weirdest emerging UK rap / electronic artists.
+Big London headline for the noise-dance group Bathing Suits. They're chaotic, fun & inventive - and one of the most beloved bands around at the moment, it feels like anyone who's seen them talks about how much they loved it. They've been playing pretty regularly in London over the last year, particularly at the Windmill, but this headline show at the Lexington feels like a particularly significant night - get down and dance!
 
 <hr>
 
-<h2 class='date'>Friday 20th</h2>
+<h2 class='date'>Thursday 26th</h2>
 
-<a class='gig-tix' target=_blank href='https://www.instagram.com/thelncc/?hl=en'>LNCC: The Femcels / MRWIZE / Sacha</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/py53b8-plastic-ceremonial-mptl-microplastics-chase-coley-x-henry-collins-joe-plastic-more-26th-feb-venue-mot-unit-18-london-tickets'>Venue MOT: MPTL Microplastics / Chase Coley X Henry Collins / Joe Plastic /...</a>
 
-London Fashion Week afterparty for the brand Lueder, with music from The Femcels who dropped their mad and brilliant debut album a couple of weeks ago. RSVP essential apparently: rsvp@ln-cc.com
+Big night of folk-punk chaos, helmed by the sprawling MPTL Microplastics. The description of the lineup is littered with funny & intriguing little details: Titus Barker is described as an 'e-waste visionary'; The Balloon Orchestra will play 'feat real balloons', while Chase Coley & Henry Collins will perform a set 'playing various constructions'. Looks like a good one!
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/k69qm9-fat-concubine-radio-waves-goodbuy-lifeloose-20th-feb-farsight-gallery-london-tickets'>Farsight Gallery: Fat Concubine / Radio Waves Goodbye / Lifeloose</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oeg38y-blue-bendy-cowboyy-casual-smart-26th-feb-the-old-blue-last-london-tickets'>Old Blue Last: Blue Bendy / Cowboyy / Casual Smart</a>
 
-Farsight Gallery is a really interesting new space just off Denmark street, I saw an unplugged screamo show there last year and so many weird things happened - there was a bin filled with uncooked sausages, a chill biker gang sitting in the bar, and at one point a man carried a dog through tyhe middle of the seated crowd. This is a fun lineup of dancey / dance punk bands. 
+Part of a series celebrating 20 years of Brighton's Great Escape festival. Here, the art-rockers of Blue Bendy are joined by noisy, brash math rockers Cowboyy & sweet indie from Cardiff's Casual Smart. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8k8v-kenichi-iwasa-elvin-brandhi-boy-lucid-aloisius-20th-feb-the-horse-hospital-london-tickets'>Horse Hospital: Kenichi Iwasa / Elvin Brandhi / Boy Lucid / aloisius</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/7dqqdv-in-the-round-feeo-whatever-the-weather-26th-feb-ica-institute-of-contemporary-arts-london-tickets
+'>ICA: feeo / Whatever The Weather</a>
 
-Improv and experimental music at the Horse Hospital with the Welsh auto-tune blast beat artist Elvin Brandhi and Krautrock Karaoke founder Kenichi Iwasa.
+Another in-the-round show at the ICA, headlined this time by the haunted dubby drones & poetic vocals of feeo, along with Whatever The Weather, the pseudonym of the experimental electronic producer Lorraine James. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/mx3mrk-pubdance-birdfeeder-albertina-more-20th-feb-the-george-tavern-london-tickets'>George Tavern: Birdfeeder / Albertina / Stuart Mckenzie</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6abl8-kiosk-cosign-jellyskin-assa-26th-feb-windmill-brixton-london-tickets'>Windmill Brixton: KiosK / Cosign / Jellyskin / Assa</a>
 
-'Pubdance' night at the George, with live sets from electronic artist and Atomiser founder Birdfeeder, singer and DJ Albertina,  and poet/spoken word artist Stuart Mckenzie – joined by an array of DJs deep into the night.
-
-<hr>
-
-<h2 class='date'>Saturday 21st</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oegwoy-fundraiser-for-aid-in-gaza-all-ticket-sales-go-to-the-muslim-global-relief-foundations-gaza-appeal-21st-feb-sebright-arms-london-tickets'>Sebright Arms: Gaza Fundraiser</a>
-
-Massive all-dayer at the Sebright, raising money for the Muslim Global Relief Foundation's Gaza appeal. There's so many great artists playing, across a wide range of genres – to pick out a few, there's the ghostly, dreamy LOLA; the dub-folk duo Mimiko, and Good Bad Happy Sad member Raisa K. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2wkp5p-middleman-following-the-ghost-album-release-show-21st-feb-the-george-tavern-london-tickets'>George Tavern: Middleman / Gimic / Eel Men / Hoof</a>
-
-Album release show for the London punks Middleman - their debut album, 'Following the Ghost' is great, closer to the tortured melodies of American punks like the Replacements than to the UK punk scene, loads of nice distortion and a lead singer with a great Westerberg-esque howl. 
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2294416'>Palais: mad miran b2b Pariah</a>
-
-After a decade away, Palais has reopened on Rye Lane in Peckham - with a 500 capacity club and a freshly refurbished Ballroom. This Saturday, the club is taken over by the renowned underground DJs mad miran and Pariah 'for a 6-hour winding journey in off-kilter techno, forward-thinking UK bass and more'. 
+Another curated night at the Windmill from the Leeds indie label Private Regcords – showcasing the DIY dance-punk scene which seems to be brewing up in Yorkshire with headliners KiosK – joined on this bill by the melancholic indietronica of Belfast artist-producer cosign. 
 
 <hr>
 
-<h2 class='date'>Sunday 22nd</h2>
+<h2 class='date'>Friday 27th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/rynkpw-metropolis-ft-live-original-score-matinee-22nd-feb-theatreship-london-tickets'>Theatreship: Metropolis (1927) w/ live score from Joe Harvey-Whyte</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/nv9e29-trio-explorations-27th-feb-sjq-london-tickets'>Servant Jazz Quarters: Sheldon Agwu / Max Luthert / Yusuf Ahmed</a>
 
-The boat in Canary Wharf hosts a screening of Fritz Lang's German expressionist classic 'Metropolis', accompanied by a live original score from the experimental pedal steel artist Joe Harvey-Whyte.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/eobxrd-tgt-mry-itsmyluckyday-gegenpress-swamp-22nd-feb-the-george-tavern-london-tickets'>George Tavern: mry / itsmyluckyday / Gegenpress / swamp</a>
-
-Great Sunday lineup at the George, headlined by (maybe) the best shoegaze band in London at the moment, mry, alongside folk-rockers itsmyluckyday and the exhilirating Gegenpress. Nice Sunday mix of dreamy textures to get lost in and loud loud noises to wake you up. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3onl98-resonance-fundraiser-night-1-cuckoo-spit-shoko-yoshida-aga-ujma-ramilda-22nd-feb-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Cuckoo Spit / Shoko Yoshida / Aga Ujma / Ramilda</a>
-
-First day of a two day fundraiser event for Resonance, a non-profit community run radio station. This lineup features the 'spooky yet sweet' Cuckoo Spit (haven't seen them in a while, but was blown away the last time) and the composer / multi-instrumentalist Aga Ujma. 
+Improv trio in the basement of Dalston's Servant Jazz quarters with 3 musicians known for expanding outwards from Jazz into new genres, textures & instrumentations. 
  
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oegxwg-sandhouse-27th-feb-corsica-studios-london-tickets'>Corsica Studios: Sandhouse / Paul’s Daughter / E.B.Hopscotch</a>
+
+The Psych-rock duo Sandhouse perform in the iconic Elephant & Castle club, before its closure at the end of March – their music is grungy, fuzzy & lovesick. Joined by the gothic Paul's Daughter & ambient audio-visual improv from E.B Hopscotch (watch out for the water bowl maestro)
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2362104'>The Greyhound: Michelle Manetti</a>
+
+All nighter in the basement of the Peckham pub from The Cause regular Michelle Manetti - offering 'house, techno, acid, disco and the odd leftfield curveball, all stitched together with jackin’ groove and soulful pressure from open to close'.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2362667'>Vespers: Krautrock Karaoke - 13th Anniversary Special</a>
+
+Special night celebrating the impressive (& slightly implausible) 13th anniversary of Krautrock Karaoke – an old Tumblr bio of the event reads: 'each night is a glorious catastrophe with dilated moments of true inspiration. The inhibitions of the audience are sent into a delirious nosedive, in something that resembles the scenes in apocolyxploitation movies where animals pre-empt disaster'
+
+<hr>
+
+<h2 class='date'>Saturday 28th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/2wkel7-the-season-x-far-out-jeanie-and-the-white-boys-28th-feb-the-old-blue-last-london-tickets'>The Old Blue Last: Jeanie and the White Boys / Getner / Femur</a>
+
+Punk night at the Old Blue Last, presented by Far Out magazine, and headlined by Jeanie & the White Boys – wild and raw – joined by two more raucous groups, from Manchester and Sheffield respectively.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2363547'>Deptford Junction: E.B Hopscotch / Ewan Samms / Max Winter / mary in the junkyard / wing! / IMISSMYMOM</a>
+
+Shameless self-promo but I love this lineup very much - Max Winter & wing! are both awesome electronic artists who blend great production into trancey, spiky live sets – Pollyfromthedirt are sadly no longer able to play, but Ewan Samms will be a great replacement, they've got a beautiful voice and make fresh, folky music. E.B. Hopscotch will tell u a story with sounds & visuals, and IMISSMYMOM are loud, bracing and unpredictable. Ants in the Pants!
+
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/g5dbw5-2b2c-tommy-barlow-tv-maiden-otta-doberman-28th-feb-the-george-tavern-london-tickets'>George Tavern: Tommy Barlow / TV / maiden + otta & Doberman</a>
+
+Sick lineup at the George, Tommy Barlow is especially excellent – his music is deep & dreary at times but often soaringly beautiful. The whole lineup is very strong, and largely in that sweet spot of mess, noise & melody. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/rynd5q-resonance-fundraiser-signature-dish-28th-feb-iklectik-london-tickets'>IKLECTIK: Weaving in Purgatory / William Joys / Angela Wai Nok Hui / A—Z (Anne Duffau) / …</a>
+
+Resonance Radio fundraiser with an eclectic (IKLECKTIK) lineup of music & performance art – headlined by the spooky, ritualistic folk of Weaving in Purgatory. 
+<hr>
+
+<h2 class='date'>Sunday 1st March</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/yoagxp-a-first-glance-institute-17-screening-night-launch-party-1st-mar-the-george-tavern-london-tickets'>George Tavern: “A first glance…” Institute 17 Screening Night + Launch Party</a>
+
+Inaugural social for the Psychoanalysis journal & society Institute 17 - with short film screenings & panel discussions & also DJ sets and merch - they say: 'Come for the drinks, stay for the jouissance'.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l893gp-folk-night-family-stereo-solo-tesni-sienna-melella-morning-coyote-solo-1st-mar-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Family Stereo (solo) / Tesni / Sienna Melella / Morning Coyote (solo)</a>
+
+Folky evening in Hoxton, especially highlighted for Tesni - vocalist of Manchester's Catbandcat - who released an incredibly moving & special song last year called 'Nothing's New Again' - I've haven't seen her live yet, but I've listened to that song millions of times. 
+
+
 

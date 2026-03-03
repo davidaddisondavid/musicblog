@@ -9,116 +9,117 @@ permalink: /listings/
 <h1 id='week'>Feb 23 - Mar 1 </h1>
 
 <p class='intro'>
-    Lorem Ipsum
+
 </p>
 
 <hr>
 
+<h2 class='date'>Tuesday 3rd</h2>
 
-<h2 class='date'>Tuesday 17th</h2>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/5382ad-anastasia-coope-presents-bonzo-3rd-mar-windmill-brixton-london-tickets'>Windmill Brixton: Anastasia Coope / Birdfeeder / Bara & Isa</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/pyrrmk-in-the-round-flur-gal-go-24th-feb-ica-institute-of-contemporary-arts-london-tickets'>ICA: Flur / GAL GO</a>
-
-Experimental Jazz double header for the ICA's 'in the round' series – where the stage is set up in the middle of the room, surrounded by the audience and the venue's 'state-of-the-art 360° soundsystem'. Flur are a dizzying & ethereal harp/sax/drum trio, who released their debut album 'Plunge' last year; while GAL GO is the heavy, misty, brooding project of Ignacio Salvadore – multi-instrumentalist & longtime collaborator with King Krule. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwr6rn-truthpaste-pollyfromthedirt-fly-the-nest-24th-feb-below-stone-nest-london-tickets'>Below Stone Nest: Truthpaste / Pollyfromthedirt</a>
-
-Awesome double up of two up-and-coming, entirely unique artists: Truthpaste are lots of fun, a large alt-folk ensemble with a 'trusty computer drum'. And on before them, the masked & mysterious Pollyfromthedirt makes surreal, hypnagogic ballads – often about the particular weirdness of England & Englishness. Seems to have been lots of cool shows happening at the Stone Nest recently, definitely a venue to keep an eye on!
-
-<hr>
-
-<h2 class='date'>Wednesday 18th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/bb8dkx-tgt-djank-ignoring-izzy-jonique-25th-feb-the-george-tavern-london-tickets'>George Tavern: djank / Ignoring Izzy / Jonique</a>
-
-Great indie rock lineup at the George. Opened by a solo set from Jonique, who also plays in headliners Djank – a brilliant, rightfully janky indie country band, in the vein of artists like Wednesday & Westside Cowboy. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/nvw29q-maria-somerville-25th-feb-the-dome-london-tickets'>The Dome: Maria Somerville</a>
-
-Kind of can't believe this still has tickets available! (at time of writing) Maria Somerville's second album, 'Luster', was one of the best of last year – ancient, folkloric shoegaze. She followed it up with a great remix EP last month, YHWH Nailgun's take on 'Violet' is particularly sick. Her NTS Early Bird Show is also one of my favourite regular programmes, though I'm rarely awake early enough to listen live.
+From the village of Cold Spring in upstate New York, Anastasia Coope is a ghostly experimental folk /electronic musician, who runs a label called Bonzo Records. At the Windmill, she's hosting a 'Bonzo night' of avant-folk & electronica – joined by Birdfeeder, and Bara & Isa.
 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/v3qak7-long-distance-runner-residency-4-25th-feb-dream-bags-jaguar-shoes-london-tickets
-'>Dream Bags Jaguar Shoes: Long Distance Runner / Maiden / studio20</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/wwrdgr-man-with-a-movie-camera-ft-live-original-score-3rd-mar-theatreship-london-tickets'>Theatreship: 'Man With A Movie Camera' ft. live original score</a>
 
-The finale of Long Distance Runner's month long residency at Dream Bags, which has had consistently great opening lineups – this last time the post-rock ensemble are joined by the spiky, gothic shoegazers Maiden, & the alt-pop/emo cyborgs studio20.
+Another edition in Thetareship's 'Silent Film with New Sound' season, co-promoted by Broadside Hacks. This night will feature the 1920s Soviet experimental documentary film 'Man With A Movie Camera', with a live score provided by the ambient-folk musicians Joe Harvey-Whyte and Owen Spafford.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2wepap-bathing-suits-25th-feb-the-lexington-london-tickets'>The Lexington: Bathing Suits</a>
+<a class='gig-tix' target=_blank href='https://leonardmaassen.com/2026/02/26/leonard-maassen-live-space-talk-ldn-3-2-2026/'>Space Talk: Leonard Maassen</a>
 
-Big London headline for the noise-dance group Bathing Suits. They're chaotic, fun & inventive - and one of the most beloved bands around at the moment, it feels like anyone who's seen them talks about how much they loved it. They've been playing pretty regularly in London over the last year, particularly at the Windmill, but this headline show at the Lexington feels like a particularly significant night - get down and dance!
+Leonard Massen is a German artist 'exploring subtle entanglements of perception, space, and techno-ecological systems.' He's performing a free set in the hifi bar at Space Talk, presenting 'a programme of spacious synthesis and poetic fragments, composed for deep listening and slow immersion'.
+Spaaaaaaceeey
 
 <hr>
 
-<h2 class='date'>Thursday 26th</h2>
+<h2 class='date'>Wednesday 4th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/py53b8-plastic-ceremonial-mptl-microplastics-chase-coley-x-henry-collins-joe-plastic-more-26th-feb-venue-mot-unit-18-london-tickets'>Venue MOT: MPTL Microplastics / Chase Coley X Henry Collins / Joe Plastic /...</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v397vv-resonance-fundraiser-radio-killed-the-video-star-4th-mar-spanners-london-tickets'>Spanners: Radio Killed The Video Star</a>
 
-Big night of folk-punk chaos, helmed by the sprawling MPTL Microplastics. The description of the lineup is littered with funny & intriguing little details: Titus Barker is described as an 'e-waste visionary'; The Balloon Orchestra will play 'feat real balloons', while Chase Coley & Henry Collins will perform a set 'playing various constructions'. Looks like a good one!
+Another Resonance radio fundraiser show, this time in the form of an eclectic lineup 'bringing together music, comedy, performance art, video and DJs'. I listened a bit to DEEPYCUB, who features on this bill, and really enjoyed their stuff, which they describe as '100% homemade London' music. (check out 'Lucifer SPEED d.e.m.o, it's operatic jungle music v sick)
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oeg38y-blue-bendy-cowboyy-casual-smart-26th-feb-the-old-blue-last-london-tickets'>Old Blue Last: Blue Bendy / Cowboyy / Casual Smart</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8969p-compost-compost-compost-residency-1-4th-mar-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: COMPOST COMPOST COMPOST / snake_case / Lagtime Seedling</a>
 
-Part of a series celebrating 20 years of Brighton's Great Escape festival. Here, the art-rockers of Blue Bendy are joined by noisy, brash math rockers Cowboyy & sweet indie from Cardiff's Casual Smart. 
+Fresh off last month's Long Distance Runner residency, 2b2c are taking over Jaguar Shoes again with a month of a weekly shows from the boundary exploding electro-acoustic trio COMPOST COMPOST COMPOST.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/7dqqdv-in-the-round-feeo-whatever-the-weather-26th-feb-ica-institute-of-contemporary-arts-london-tickets
-'>ICA: feeo / Whatever The Weather</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/g5m932-the-last-whole-earth-catalogue-ewan-samms-ted-mair-4th-mar-venue-mot-unit-18-london-tickets'>Venue MOT: The Last Whole Earth Catalogue / Ewan Samms / Ted Mair</a>
 
-Another in-the-round show at the ICA, headlined this time by the haunted dubby drones & poetic vocals of feeo, along with Whatever The Weather, the pseudonym of the experimental electronic producer Lorraine James. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/k6abl8-kiosk-cosign-jellyskin-assa-26th-feb-windmill-brixton-london-tickets'>Windmill Brixton: KiosK / Cosign / Jellyskin / Assa</a>
-
-Another curated night at the Windmill from the Leeds indie label Private Regcords – showcasing the DIY dance-punk scene which seems to be brewing up in Yorkshire with headliners KiosK – joined on this bill by the melancholic indietronica of Belfast artist-producer cosign. 
+Awesome night of folk music from 3 great singer/songwriters in industrial Bermondsey - sweet tunes on hard metal.
 
 <hr>
 
-<h2 class='date'>Friday 27th</h2>
+<h2 class='date'>Thursday 5th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/nv9e29-trio-explorations-27th-feb-sjq-london-tickets'>Servant Jazz Quarters: Sheldon Agwu / Max Luthert / Yusuf Ahmed</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2350730'>Ormside Projects: Bby Eco presents Sky (i)</a>
 
-Improv trio in the basement of Dalston's Servant Jazz quarters with 3 musicians known for expanding outwards from Jazz into new genres, textures & instrumentations. 
- 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oegxwg-sandhouse-27th-feb-corsica-studios-london-tickets'>Corsica Studios: Sandhouse / Paul’s Daughter / E.B.Hopscotch</a>
+The ecological audio-visual artist Bby Eco performs their new album 'Sky (i)', described as 'a documentation of the transformative power of love: ”It confronts the harrowing crisis of personal loss I was faced with, with an all pervasive and forgiving strength received from the world". 
 
-The Psych-rock duo Sandhouse perform in the iconic Elephant & Castle club, before its closure at the end of March – their music is grungy, fuzzy & lovesick. Joined by the gothic Paul's Daughter & ambient audio-visual improv from E.B Hopscotch (watch out for the water bowl maestro)
+<a class='gig-tix' target=_blank href='https://ra.co/events/2369963#tickets'>Corsica Studios: Jeanie & The White Boys / John Grant / Jasmine 4.t (solo)</a>
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2362104'>The Greyhound: Michelle Manetti</a>
+Big punk send off for Corsica Studios from Club Mofo - featuring a mixed lineup of bands and DJs deep into the night. Great lineup, great place, gone soooon :(
 
-All nighter in the basement of the Peckham pub from The Cause regular Michelle Manetti - offering 'house, techno, acid, disco and the odd leftfield curveball, all stitched together with jackin’ groove and soulful pressure from open to close'.
+<a class='gig-tix' target=_blank href='https://dice.fm/event/mx3p5v-porchlight-glasshouse-red-spider-mite-auntie-5th-mar-sebright-arms-london-tickets'>Sebright Arms: Porchlight / Glasshouse Red Spider Mite / Auntie</a>
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2362667'>Vespers: Krautrock Karaoke - 13th Anniversary Special</a>
+3 awesome bands, more than enough reason to descend into the frightening depths of the Sebright Arms basement. Particularly love Glasshouse Red Spider Mite, who still seem to get better every time I see them – they're currently  trying out new material ahead of a tour with deathcrash in April. 
 
-Special night celebrating the impressive (& slightly implausible) 13th anniversary of Krautrock Karaoke – an old Tumblr bio of the event reads: 'each night is a glorious catastrophe with dilated moments of true inspiration. The inhibitions of the audience are sent into a delirious nosedive, in something that resembles the scenes in apocolyxploitation movies where animals pre-empt disaster'
+<a class='gig-tix' target=_blank href='https://dice.fm/event/nv9ld9-roscoe-roscoe-lifepath99-secret-opener-5th-mar-the-george-tavern-london-tickets'>George Tavern: Roscoe Roscoe / Lifepath99 / Sazza Mazza (solo)</a>
+
+The vast & dreamy Roscoe Roscoe are joined by Lifepath99 (who recently opened for TAGABOW at the ICA) and electro/folk balladry from the mysterious Sazza Mazza, before she disappears into the Texas sun for SXSW.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av3qkq-the-cindys-5th-mar-windmill-brixton-london-tickets'>Windmill Brixton: The Cindys</a>
+
+What a busy Thursday. This is another excellent show – a first headline in London for The Cindys: a surrealist slacker rock band, helmed by artist/producer Jack Ogborne (formerly of Bingo Fury). 
 
 <hr>
 
-<h2 class='date'>Saturday 28th</h2>
+<h2 class='date'>Friday 6th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2wkel7-the-season-x-far-out-jeanie-and-the-white-boys-28th-feb-the-old-blue-last-london-tickets'>The Old Blue Last: Jeanie and the White Boys / Getner / Femur</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/xe2q33-the-2nd-annual-ween-night-6th-mar-the-george-tavern-london-tickets'>George Tavern: The 2nd Annual Ween Night</a>
 
-Punk night at the Old Blue Last, presented by Far Out magazine, and headlined by Jeanie & the White Boys – wild and raw – joined by two more raucous groups, from Manchester and Sheffield respectively.
+Last year's Ween night was one of the most joyful events I've been at. You don't really need to be a Ween fan to enjoy, just up for the spectacle of a bunch of talented musicians performing songs which are alternately incredible & deeply silly. 
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2363547'>Deptford Junction: E.B Hopscotch / Ewan Samms / Max Winter / mary in the junkyard / wing! / IMISSMYMOM</a>
+<a class='gig-tix' target=_blank href='https://www.eventbrite.com/e/checkmate-in-the-basement-tickets-1983250109465'>The Marquee Moon: checkmate in the basement</a>
 
-Shameless self-promo but I love this lineup very much - Max Winter & wing! are both awesome electronic artists who blend great production into trancey, spiky live sets – Pollyfromthedirt are sadly no longer able to play, but Ewan Samms will be a great replacement, they've got a beautiful voice and make fresh, folky music. E.B. Hopscotch will tell u a story with sounds & visuals, and IMISSMYMOM are loud, bracing and unpredictable. Ants in the Pants!
+Informal chess tournament adjacent to the dancefloor at the Marquee Moon in Stoke Newington. Make some moves, then make a move – very cool. Also like that the event title follows the mary in the junkyard secret set naming convention of 'blank in the blank'. 
 
+<a class='gig-tix' target=_blank href='https://ra.co/events/2334908'>Vespers Club: Richard Sen</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/g5dbw5-2b2c-tommy-barlow-tv-maiden-otta-doberman-28th-feb-the-george-tavern-london-tickets'>George Tavern: Tommy Barlow / TV / maiden + otta & Doberman</a>
+Legendary DJ and 'one of the UK's original graffiti taggers' - Richard Sen takes over the little ampitheatre of Vespers with 'deep, groovy, soul nourishing sounds to permeate your membrane'.
 
-Sick lineup at the George, Tommy Barlow is especially excellent – his music is deep & dreary at times but often soaringly beautiful. The whole lineup is very strong, and largely in that sweet spot of mess, noise & melody. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/rynd5q-resonance-fundraiser-signature-dish-28th-feb-iklectik-london-tickets'>IKLECTIK: Weaving in Purgatory / William Joys / Angela Wai Nok Hui / A—Z (Anne Duffau) / …</a>
-
-Resonance Radio fundraiser with an eclectic (IKLECKTIK) lineup of music & performance art – headlined by the spooky, ritualistic folk of Weaving in Purgatory. 
 <hr>
 
-<h2 class='date'>Sunday 1st March</h2>
+<h2 class='date'>Saturday 7th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/yoagxp-a-first-glance-institute-17-screening-night-launch-party-1st-mar-the-george-tavern-london-tickets'>George Tavern: “A first glance…” Institute 17 Screening Night + Launch Party</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2375435'>Chats Palace: Europa / 300SkullsAndCounting / Yvette / Floods in Atlanta/...</a>
 
-Inaugural social for the Psychoanalysis journal & society Institute 17 - with short film screenings & panel discussions & also DJ sets and merch - they say: 'Come for the drinks, stay for the jouissance'.
+The legendary punk venue hosts a lineup of experimental electronic artists, among them screamo genius 300skullsandcounting, performing with the 'lofi junglegaze' artist Shoplifting. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l893gp-folk-night-family-stereo-solo-tesni-sienna-melella-morning-coyote-solo-1st-mar-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Family Stereo (solo) / Tesni / Sienna Melella / Morning Coyote (solo)</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/dkq9qq-12-apostles-goo-lots-of-7th-mar-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: 12 Apostles / goo / Lots Of</a>
 
-Folky evening in Hoxton, especially highlighted for Tesni - vocalist of Manchester's Catbandcat - who released an incredibly moving & special song last year called 'Nothing's New Again' - I've haven't seen her live yet, but I've listened to that song millions of times. 
+Fresh alt-rock in the Hoxton Basement – guitars/synth lullabies from 12 Apostles and loud/quiet indie from goo. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/av7oyq-matthew-c-whitaker-henge-shunya-7th-mar-moth-club-london-tickets'>MOTH Club: Matthew C. Whitaker (HENGE) / Shunya</a>
+
+Matthew C. Whittaker, lead singer of the cosmic prog-rave band HENGE - performs music from his  delicate new album, *Songs for the Weary*, along with 'special reworkings of select songs from the HENGE back catalogue'.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oeg9d5-ssaliva-organ-tapes-phoning-clich-toupee-7th-mar-the-greyhound-london-tickets'>The Greyhound: SSaliva / Organ Tape / Phoning / Cliché Toupee</a>
+
+Audiovisual, looping, hypnotic vibes in the Greyhound basement. SSaliva is a Belgian alternative hip-hop producer who has 'accumulated thousands of strange, escapist mental landscapes. Sometimes ghostly, sometimes sacred'.
+
+<hr>
+
+<h2 class='date'>Sunday 8th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/v396kg-weaving-in-purgatory-glass-eel-beth-jones-8th-mar-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Weaving In Purgatory / Glass Eel / Beth Jones</a>
+
+Dark, rich, earthy folk music from Weaving in Purgatory; and something a bit more airy from Glass Eel. Great folky lineup! I quote: 'We Are All a Puppet of a Happening. Weaving Life’s Moments Into Ritual. Sounds for Divination.'
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2341851'>Palais: Aba Shanti-I</a>
+
+Very special show in Peckham, with the new Palais soundsystem taken over by the legendary dub producer & DJ Aba Shanti-I - 'A cornerstone of UK soundsystem culture, Aba Shanti-I has spent decades shaping the language of roots, dub and spiritual music, building a legacy rooted in community. His sessions are unhurried and purposeful, guided by selection, sound and message rather than spectacle.
+
+
+
 
 
 

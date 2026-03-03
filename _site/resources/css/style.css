@@ -61,12 +61,12 @@ nav a { /* Top navigation bar links */
 }
 
 
-@media only screen and (max-width: 572px) { /* Adjustments for mobile screens */
+@media only screen and (max-width: 666px) { /* Adjustments for mobile screens */
     body {
         font-size: 0.75em;
     }
     #title {
-        font-size: 1.5em;
+        font-size: 1.75em;
     }
     #logo {
         display: block;

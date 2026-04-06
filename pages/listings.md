@@ -33,6 +33,7 @@ The latest edition of the Horse Hospital's un/stable series, showcasing improvis
 <h2 class='date'>Tuesday 7th</h2>
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/3ow3nv-goodbye-7th-apr-the-george-tavern-london-tickets'>George Tavern: Goodbye / Djank / Bugbear</a>
+
 London headline for Brighton's dream-pop groovers Goodbye - who just released their debut EP 'These Things Take Time'. They're a really great band, with an engaging balance of big sounds & frantic, immediate rhythms - and they have good stage banter. Djank & Bugbear are two v good support acts as well!
 
 <a class='gig-tix' target=_blank href='https://dice.fm/event/bb823m-kiss-gem-burn-ft-kristina-rhodes-my-theatre-friend-7th-apr-the-old-blue-last-london-tickets'>Old Blue Last: Kiss Gem Burn / Kristina Rhodes / My Theatre Friend</a>

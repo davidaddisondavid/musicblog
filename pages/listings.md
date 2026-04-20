@@ -105,7 +105,7 @@ Pretty massive lineup of dub-techno & bass music legends, weirdly at KOKO...
 
 <a class='gig-tix' target=_blank href='https://ra.co/events/2365229'>The Glove That Fits: ||||||||||||||||||||</a>
 
-One of the hardest to search artists around, |||||||||||||||||||| (barcode) blends jazz, bass music and IDM - it's cold, subtle, fluttering & very pretty, this is apparently his debut club show in London.
+One of the hardest to search artists around, barcode blends jazz, bass music and IDM - it's cold, subtle, fluttering & very pretty, this is apparently his debut club show in London.
 
 <a class='gig-tix' target=_blank href='https://ra.co/events/2399586'>MOT: Brief Encounters x Transatlantic</a>
 

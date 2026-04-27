@@ -6,7 +6,7 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>Apr 20 - 26</h1>
+<h1 id='week'>Apr 27 - May 3</h1>
 
 <p class='intro'>
 
@@ -14,134 +14,127 @@ permalink: /listings/
 
 <hr>
 
-<h2 class='date'>Monday 20th</h2>
+<h2 class='date'>Monday 27th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8585l-ewan-samms-floco-vera-20th-apr-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Ewan Samms / FLOCO / Vera</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/eowg9d-ex-easter-island-head-rn-27th-apr-iklectik-london-tickets'>IKLECTIK: Ex-Easter Island Head / Rún</a>
 
+Ex-Easter Island Head are an experimental collective from Liverpool, drawing inspiration from the 20th Century movements of Minimalism & No Wave. Their latest album, 2024's <em>Norther</em> makes use of a homemade Aeloian Harp - an instrument played by the wind - which the band placed on the roof of Bidston Observatory in Birkenhead. 
 
-Ewan Samms takes the stage with a 7 piece band. Their music is folky & free, accompanied by live projections of rabbits, birds, stars etc. FLOCO is supporting, she's an amazing electro-folk experimentalist. 
+<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/unpredictable-series-april-26/'>Cafe OTO: Cheslav Singh & Martí Guillem / Mandhira de Saram & Blanca Regina / ...</a>
 
-<a class='gig-tix' target=_blank href='https://www.windmillbrixton.co.uk/events/2026-04-20-new-music-mondays-the-windmill'>Windmill Brixton: New Music Mondays (Esmeralda Road / A bit much)</a>
+Part of Cafe OTO's 'Unpredictable Series', this is a night 'where boundaries blur between electronics, electroacoustic music, and immersive visuals.' Featuring collaborations between a wide range of avant garde musicians & visual artists, a night which encapsulates the progressive spirit of Cafe OTO as an institution. 
 
-The Windmill's regular new music night – this time featuring a special set from the Belfast indie-fusion band Esmeralda Road, who are sticking around in London for a bit after supporting Basht at MOTH Club on Friday. 
+<a class='gig-tix' target=_blank href='https://thenickel.co.uk/screening/312'>Nickel Cinema: Breathless (1983)</a>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3o6m6x-tgt-free-millpool-sw-gothic-pondlife-20th-apr-the-george-tavern-london-tickets'>George Tavern: Millpool / S.W Gothic / Pond Life</a>
-
-Had a quick listen to Milpool's stuff on Bandcamp and it's pretty cool! Somewhere in the Maruja-ish world of Jazz-punk, their bio references Fugazi & 'No Wave-Inspired Energy'. They headline this free show at the George.
-
-<hr>
-
-<h2 class='date'>Tuesday 21st</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l85y5w-myer-u-clark-dan-pacini-eva-penney-21st-apr-morocco-bound-london-tickets'>Morocco Bound: Myer U Clark / Dan Pacini / Eva Penney</a>
-
-Myer U Clark is a folk singer, his music sounds properly old and earthy - with intricate fingerstyle guitar parts & a yearning voice which appeals to my Bob Dylan addled brain. 
-
-<a class='gig-tix' target=_blank href='https://www.thehorsehospital.com/events/grain-april21'>Horse Hospital: Tongue Depressor / Marija Covačević / Steve Noble & Caius Williams / Theodora Laird & Grace Black</a>
-
-This is a very stacked & exciting lineup of experimental music in Holborn – headlined by Tongue Depressor, from New England, who make 'drone-based music with continually expanding instrumentation including bagpipes, double bass, pedal steel/lap steel, tape loops, harmonicas, organs, and bells'. Also playing: Marija Kovačević, a New York City based violinist whose music often incorporates broken violins - 'an idiosyncratic vocabulary of dragging strings, playing cracks, bowing broken bodies, wrapping loose hair and creaking pegs'. There's also a duo set from  the legendary experimental drummer Steve Noble & the double bassist Caius Williams (both featured on the new MNBB album), as well as one from Theodora Laird of feeo & the interdisciplenary artist Grace Black. The Horse Hospital at the centre of so much cool avant garde classical/folk-adjacent music in London, an exciting place at the moment!
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/py8dol-pleisured-vrengt-norway-auntie-21st-apr-dream-bags-jaguar-shoes-london-tickets'>Dream Bags Jaguar Shoes: Pleisured / Vrengt / Auntie</a>
-
-Vrengt are a Norweigan band, in London for a little bit - they just released a new single, called 'Skru av' which is a real banger - post-punky in a Viagra Boys way with a quite pretty vocal performance in the chorus. They're playing this show & one on Thursday at the George, either one would be well worth catching!
-
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/xe688m-unlucky-roscoe-roscoe-21st-apr-sjq-london-tickets'>Servant Jazz Quarters: Unlucky / Roscoe Roscoe</a>
-
-Release show for Unlucky's debut single 'No God' - a big shoegaze song with motorik drums, something in the guitars & melody reminds me a bit of early Wolf Alice. Support from the awesome Rosco Roscoe.
+Jim Mcbride's loose, cartoonish & sexy remake of Jean-Luc Godard's 1960 original is much better than you could possibly expect it to be. It's not the same cinematic milestone that Godard's film was, but it's stylish, fun & an exhaustive portrait of 1980s Los Angeles. 
 
 <hr>
 
-<h2 class='date'>Wednesday 22nd</h2>
+<h2 class='date'>Tuesday 28th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/k69w8l-dry-cleaning-22nd-apr-o2-academy-brixton-london-tickets'>Brixton Academy: Dry Cleaning</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/wwdwpp-dana-margolin-curbside-lambsear-fly-the-nest-28th-apr-the-greyhound-london-tickets'>The Greyhound: Dana Margolin / curbside lambsear</a>
 
-Bit of a bigger show than I've usually put in these listings, but included for 2 reasons: 1. the band have released a limited number of low-income tickets, which I think is pretty cool, 2. this feels like a proper milestone gig – Dry Cleaning have been steadily releasing great albums & touring for a few years, and this is their biggest show yet - I think they're probably a band who will be looked back on as a definitive band of this era in rock music & its particular sound, therefore this feels like a significant night. But in any case, that's all less important than the fact that they're a great band and I'm sure this will be a great show. 
+Dana Margolin, from the recently disbanded Porridge Radio performs a set of new solo material.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oep9mg-tgt-kickboy-bella-artois-tortured-devices-homebread-22nd-apr-the-george-tavern-london-tickets'>George Tavern: Kickboy / Bella Artois / Tortured Devices / Homebread</a>
+<a class='gig-tix' target=_blank href='http://dice.fm/event/wwdb3p-keyahblumalady-kb-forever-live-listening-party-28th-apr-below-stone-nest-london-tickets'>Below Stone Nest: KEYAH/BLU / Malady</a>
 
-I'm playing this one! On drums for Tortured Devices. We had a rehearsal last week and it was wonderful, I really love these songs - they're kind of noisy-alt-country Wednesday/MJ Lenderman style, but also with some wistful, psychedelic vibes in a sort of Brian Jonestown Massacre way - lots of fun.
+KEYAH/BLU just released her debut mixtape: it's a fun & engaging collection which spans indie , rnb , hip-hop & club music. This is a 'live listening party' with support from the indietronica band Malady. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/8egxgv-interference-venue-mot-22nd-apr-venue-mot-unit-18-london-tickets'>Venue MOT: INTERFERENCE</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2425554'>Space Talk: SWIMS & Sara Kärpänen</a>
 
-A night of experimental electronica at MOT, themed around 'disruption, glitch, distraction, error, scramble, disarray, fragmentation, turbulence, static' and featuring 'Bristol Laptop Orchestra - Bristol's premier laptop ensemble' alongside a bunch of other plunderphonic internet-scraping musicians. 
-
-<a class='gig-tix' target=_blank href='https://www.eventbrite.co.uk/e/eternal-april-erwan-keravec-bagpipes-tickets-1981588227732?aff=oddtdtcreator'>The Swiss Church in London: Erwan Keravec</a>
-
-Erwan Keravec is a free jazz bagpipe player, manoeuvring the instrument into weird, exciting new worlds. 
+The Finnish poet Sara Kärpänen takes over Space Talk's hi-fi bar – 'her stage poetry combines movement and sound, drawing from a connection with nature, multilingual expression, and experiences of womanhood, gentrification and belonging in the city.'
 
 <hr>
 
-<h2 class='date'>Thursday 23rd</h2>
+<h2 class='date'>Wednesday 29th</h2>
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2401758'>Deptford Junction: my tiny room / Scadenza / Snub / Flynn</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3o6e6g-omen-festival-vegas-water-taxi-atticomatic-ted-mair-29th-apr-the-old-blue-last-london-tickets'>Old Blue Last: vegas water taxi / AtticOmatic / Ted Mair</a>
 
-Lineup drawn from London's growing Screamo scene - cool things happening here. These bands are really great, loud & refreshing with a strong sense of community - Deptford Junction is a awesome new venue as well, run by people that really care. 
+Nice lineup of twangy, twisty indie - vegas water taxi are an alt-country group, AtticOmatic are a jazzy-indietronica band from Brighton and Ted Mair is a great pianist/singer-songwriter.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/53778l-lefty-parker-the-horse-perfect-binding-23rd-apr-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Lefty Parker / The Horse / Perfect Binding</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/53r7kw-find-joy-lttl-mort-wyatt-two-man-lift-29th-apr-the-george-tavern-london-tickets'>George Tavern: lttl mort / WYATT / Two Man Lift</a>
 
-Lefty Parker is a folk artist from Austin, Texas who has collaborated with Big Thief & makes dusty, gritty & beautiful music. He's in London for only a little bit & playing this one headline up in Dalston. 
+Great showcase from Brighton-based promoters <em>JOY</em>. ltll mort are a synth/drum duo – acidic, trancey & drawling. WYATT are a punk band from Manchester, and then we're back into electronic world with Two Man Lift.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/dkm2qe-orcutt-shelley-miller-the-cooperati-23rd-apr-the-100-club-london-tickets'>100 Club: Orcutt Shelley Miller / The Cooperati</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2416782'>Piehouse Co-op: Shea. T / You Forever / Lifeform39 / Misery//Pleasure</a>
 
-Old man avant garde super group! No wave / free jazz guitarist Bill Orcutt, Sonic Youth drummer Steve Shelley & psych-country bassist Ethan Miller - their album last year is sick, as is their KEXP live sessions. They're playing a couple of times this week, but this one still has tickets available for now. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/v3yrbd-rough-trade-recommends-silverwingkiller-lttl-mort-lifeloose-23rd-apr-rough-trade-east-london-london-tickets
-'>Rough Trade East: SILVERWINGKILLER / lttl mort / Lifeloose</a>
-
-Really great lineup of experimental, hard-hitting electronic music. SILVERWINGKILLER are proper breakbeat scientists from the awesome electronic underground scene in Manchester, lttl mort is a synth/drum duo with hard noise & a great frontman, lifeloose skew more joyful & poppy, but still with absolute mad shit happening all the time.
+Harsh, raw & vulnerable acoustic emo.
 
 <hr>
 
-<h2 class='date'>Friday 24th</h2>
+<h2 class='date'>Thursday 30th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2w8xyp-omen-festival-another-country-floco-kiosk-24th-apr-the-old-blue-last-london-tickets'>Old Blue Last: Another Country $$$$ / FLOCO / Kiosk</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/53l3ad-negativland-issue-3-launch-party-provocateurs-30th-apr-windmill-brixton-london-tickets'>Windmill Brixton: Lemonsuckr / Cardboard / Midding</a>
 
-Also from Manchester's electronic underground, Another Country $$$$ are a duo making 'liminal heavy pop, hopecore breaks, distorted UKG' with live visuals, really cool stuff. Joined by the awesome FLOCO & Kiosk. 
+Launch party for the awesome Negativland zine's 3rd issue, headlined by the Brighton dance-punks Lemonsuckr, who apparently have a great, chaotic live show. 
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2366335'>KOKO: Mala / Pearson Sound / Moritz von Oswald / EMA</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l89vvb-powerplant-jennifer-walton-30th-apr-oslo-hackney-london-tickets'>Oslo: Powerplant / Jennifer Walton</a>
 
-Pretty massive lineup of dub-techno & bass music legends, weirdly at KOKO... 
+Headlined by the synthpunk band Powerplant, but I really love the support act Jennifer Walton - she's an electronic producer/songwriter who has collaborated with caroline & Sarah Bonito, and is part of the group Microplastics with aya & 96back. 
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2365229'>The Glove That Fits: ||||||||||||||||||||</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8egxmr-our-mutual-friend-30th-apr-the-dublin-castle-london-tickets'>Dublin Castle: Ninush / Burglar / Troutflies</a>
 
-One of the hardest to search artists around, barcode blends jazz, bass music and IDM - it's cold, subtle, fluttering & very pretty, this is apparently his debut club show in London.
+Our Mutual Friend promote another of wonderful indie/indie-folk up in Camden. Headlined by Ninush, a chamber folk/pop artist who has filled in on violin duties for BCNR.
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2399586'>MOT: Brief Encounters x Transatlantic</a>
+<a class='gig-tix' target=_blank href='https://ra.co/events/2405694'>Ormside: INGRAM label showcase</a>
 
-Link up from the London & Berlin based labels Brief Encounters & Transatlantic, featuring (among others) Jordanian-Irish artist DJ GAWAD - joined live by Palestinian rapper Pierre Pepe & the debut of experimental dance music producer Jennifer Walton's new alias Secretary.
-
-<hr>
-
-<h2 class='date'>Saturday 25th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/partner/tickets/event/eoyqm6-black-fondu-hank-spanish-horses-and-more-25th-apr-club-cheek-london-tickets?dice_id=8725344&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing'>Club Cheek: Black Fondu / Hank / Spanish Horses / Pollyfromthedirt /...</a>
-
-This is kind of a ridiculous lineup, a mini festival of some of the best in London , across a broad range of genres. Highlights include Pollyfromthedirt's hypnagogic English pop lullabies, Hank's cool dream pop, Black Fondu's gritty industrial rap & rock and roll from Spanish Horses. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/avqebv-tcs-all-dayer-kiran-leonard-animal-soup-more-25th-apr-the-george-tavern-london-tickets'>George Tavern: Kiran Leonard / Animal Soup</a>
-
-All dayer presented by The Crypt Studio, headlined by Kiran Leonard's electic & experimental folk/rock/pop along with the six-piece Animal Soup, Rosemary Moss, a secret guest called Rambo Seltzer and more!
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2388364'>Ormside Projects: Beatrice M. b2b Manami, INGI (live), Wordcolour, Cam Joon b2b flatcap</a>
-
-Beatrice M. is one of my favourite DJ/producers around at the moment. Her music sits somewhere on the dubstep - techno continium – it's bassy groovy & delicately intricate. She's joined by a lineup of other bass-forward DJs in smoky smoky Ormside. 
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2412962'>Deptford Junction: Wedgy, Golden Toad, Cold Summer's Day</a>
-
-Shimmery, fuzzy, psychy shoegaze at the junction. 
+Label showcase for INGRAM, a gritty electronic imprint spun off from the London community radio station Rinse FM. 
 
 <hr>
 
-<h2 class='date'>Sunday 26th</h2>
+<h2 class='date'>Friday 1st May</h2>
 
-<a class='gig-tix' target=_blank href='https://www.eventbrite.com/e/exit-ahead-the-chapel-tickets-1986803525829?aff=oddtdtcreator'>Reference Point: Exit Ahead – The Chapel</a>
+<a class='gig-tix' target=_blank href='https://www.somethinggoodworkshops.co.uk/full-bloom-maybankholiday2026-deptford-london-beer-music-festivals'>Deptford May Day Festival</a>
 
-An immersive performance at the library/bar Reference Point  – the description reads 'Step inside The Chapel for the next instalment of Exit Ahead, an immersive performance night where salvation and damnation play out in real time. Across one night, seven acts guide you through the pearly gates and the inferno alike: expect poetry, live music, theatre, drag, comedy and full-bodied wailing.' Sounds cool! but not reccomended for the shy. 
+Deptford is the place to be for pagan, earthy celebrations on May Day. Events are happening all over the place but the main event is the parade of the Jack in the Green, a kind of pyramidal Green Man. The parade starts and ends at the Dog and Bell pub, leaving at 12pm. After the parade, celebartions continue at the pub, with folk music, dancers & food. 
 
-<a class='gig-tix' target=_blank href='https://www.closeupfilmcentre.com/film_programmes/2026/olivia-qanda-with-sof-a-petersen'>Close Up Film Centre: Olivia (2025) + Q&A with Sofía Petersen</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/2w7bva-may-day-goblin-band-jim-ghedi-more-1st-may-earth-london-tickets'>EartH: Goblin Band / Jim Ghedi / ...</a>
 
-A special screening of filmaker Sofía Petersen's debut feature <em>Olivia</em> – a dreamy slow-cinema animation about a father and daughter alone in the Patagonian mountains. The titular Olivia is 'bound by a peculiar condition: if struck by sunlight, she cannot stay awake. So she spends her nights collecting bugs, comforting them before pinning them in her insect box'
+Another folky May Day celebration, headlined by Broadside Hacks' Goblin Band - among the best contemporary folk-revivalists. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3oneo8-crack-cloud-1st-may-ica-london-london-tickets'>ICA: Crack CLoud</a>
+
+The first of two consecutive headline dates at the ICA for the Canadian garage rock / multimedia collective Crack Cloud. Many of its members met through addiction recovery and mental health programmes, & the music is joyful, maximalist & intended as a 'healing mechanism'.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2396921'>Ormside: TRIPTYCH X Local Action</a>
+
+Label link-up promising 'weighty and percussive' club music at #smokysmokyormside.
+
+<hr>
+
+<h2 class='date'>Saturday 2nd</h2>
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2369146'>M.O.T: All Dayer</a>
+
+A big landmark event for Venue M.O.T, using the club's outdoor space for the first time. With an all-day lineup featuring DJ/producer wizard Batu & a lineup curated by the 160 Unity collective – bringing together jungle/hardcore sounds with Chicago footwork. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6d66l-die-quieter-please-004-launch-party-2nd-may-the-george-tavern-london-tickets'>George Tavern: Die Quieter Please 004 Launch Party</a>
+
+Launch party for the latest issue of London literary magazine Die Quieter Please - featuring readings accompanied by a live band & DJ sets from Silver Gore and Blue Harbour Radio.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/53lo68-offbeat-folk-film-festival-reet-northern-may-day-party-2nd-may-the-mildmay-club-london-tickets'>Mildmay CLub: OffBeat Folk Film Festival May Day Party</a>
+
+May Day celebrations continue! This is a bonanza of music, dance, a gurning competion and 'morris strip tease'. Curated by the artist & folklorist Lucy Wright.
+
+<hr>
+
+<h2 class='date'>Sunday 3rd</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/7dm7ab-treeboy-arc-be-civil-3rd-may-the-shacklewell-arms-london-tickets'>Shacklewell Arms: c / Be Civil</a>
+
+The Leeds band Treeboy & Arc are embarking on their final tour. Their music features synths, angular guitars, literate spoken vocals & motorik drums –  emblamatic (& a particularly good example) of late 2010s/2020s British post-punk/art rock. 
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2312100'>Archives: Aba Shanti I</a>
+
+The legendary dub producer Aba Shanti I brings his custom sound system to a warehouse in north London for a night 'not 2 b snubbed or sidestepped '. 
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2385781'>The Carpet Shop: shortlist sound system takeover</a>
+
+A bank holiday Sunday all dayer of soulful, joyful & eclectic club music indoors/outdoors at the Carpet Shop in Peckham.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2412552'>Ormside: Nkisi / Trailcam / Conrad Pack / Astrid Sonne (DJ)</a>
+
+A night of very cool, dubby bass musics, featuring a DJ set from the Copenhagen artist Astrid Sonne. 
 
 <hr>
 

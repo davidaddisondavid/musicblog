@@ -6,7 +6,7 @@ permalink: /listings/
 
 <a class='gig-tix' target=_blank href=''>
 
-<h1 id='week'>May 4 - 10</h1>
+<h1 id='week'>May 11 - 17</h1>
 
 <p class='intro'>
 
@@ -14,145 +14,162 @@ permalink: /listings/
 
 <hr>
 
-<h2 class='date'>Monday 4th</h2>
+<h2 class='date'>Monday 11th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/bbokyg-palestine-fundraiser-at-the-shacklewell-4th-may-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Godzoki / caledonia / mry / magda</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6ddbq-pindrop-normal-village-buffee-clive-cob-11th-may-windmill-brixton-london-tickets'>Windmill Brixton: Normal Village, buffee, Clive, Cob</a>
 
-Palestine Fundraiser at the Shacklewell Arms, with lofi rockers Godzoki, sweet rich slowcore from mry, & magda's noisy punk/post-rock/psych explosion, alongside a market stall selling 'zines/bracelets/prints/pins/etc...'
+Pindrop's monthly Windmill residency continues – this time with a lineup of artists from Leeds and Manchester - playing math rock, black metal, deconstructed electro-pop & moreeeeeee. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwdxrg-tgt-may-day-sean-trelford-dermot-henry-comafields-tortured-devices-4th-may-the-george-tavern-london-tickets'>George Tavern: Sean Trelford / Dermot Henry / Comafields / Tortured Devices</a>
+<a class='gig-tix' target=_blank href='https://www.thesocial.com/event/white-rabbit-books-presents-groovy-laidback-nasty-a-history-of-independent-music-in-sheffield/'>The Social: Groovy, Laidback & Nasty – A History Of Independent Music In Sheffield (in conversation with Daniel Dylan Wray)</a>
 
-Marking bank holiday Monday with a great lineup of songwriting-forward indie & folk. Sean Trelford’s music has a tinge of ’60s psychedelia, while Tortured Devices skew in a fuzzy alt-country direction.
+The Social hosts a conversation between the Guardian's music editor Ben Beaumont-Thomas and Daniel Dylan Wray - author of a new book on the musical history of Sheffield. Pulp! Arctic Monkeys! Richard Hawley! WARP! Cabaret Voltaire, The Human League & Meatwhistle! What a city , what a history. Learn more at The Social.
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/6d2bl8-truthpaste-memory-of-speke-4th-may-the-lexington-london-tickets'>The Lexington: Truthpaste / Memory Of Speke</a>
+<a class='gig-tix' target=_blank href='https://www.closeupfilmcentre.com/film_programmes/2026/kenneth-anger-magick-lantern-cycle/'>Close Up Film Centre: Kenneth Anger – 'Magick Lantern Cycle' (1947-81)</a>
 
-Truthpaste headline the Lexington following the release of their debut EP 'I Don't Know Either' last week. They're a great band , blending folk, indie & electronic sounds  – with driven guitars, strings & beats courtesy of their 'trusty computer drum'. 
-
-<hr>
-
-<h2 class='date'>Tuesday 5th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/ryqoev-my-tiny-room-sevy-verna-scadenza-5th-may-the-george-tavern-london-tickets'>George Tavern: My Tiny Room / Sevy Verna / Scadenza</a>
-
-A trifecta of bands from London’s vibrant screamo scene. It’s rare to see a lineup featuring only one of these three bands, they tend to move as a pack - often playing in squats & warehouses dotted around obscure parts of London. This time they’re in the lavish 18th century George Tavern, less skuzzy surroundings, same skuzzy sound.
-
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwdy5x-2b2c-norman-d-loco-residency-1-5th-may-dream-bags-jaguar-shoes-london-tickets'>Jaguar Shoes: Norman D. Loco / Pay the Stranger / Laggard</a>
-
-Another 2b2c jaguar shoes residency begins! This time it's Norman D. Loco , self-describing as 'guitar music with lemon zest' - their music is thick and textured, in TAGABOW world ; they released an awesome new single, “I Want A Beer” , in February.
-
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/ww6dxr-so-young-at-the-elephants-head-theatre-spanish-horses-5th-may-the-elephants-head-london-tickets'>Elephant's Head: THEATRE / Spanish Horses</a>
-
-The latest in So Young magazine's series of gigs at the Elephant's Head , headlined by the buzzy Irish dream-pop group THEATRE. They just released their debut single 'The Fall' (it's great) & have played recent shows with Gurriers, English Teacher & Shame.  This should be a busy one - but if there's no room inside you can watch from the street, through the big windows behind the stage. It's a good spot to make funny faces at the drummer. 
-
+Kenneth Anger was an American experimental filmmaker - his dreamlike , kaleidoscopic , homoerotic short films (many of them collected as part of the 'Magick Lantern Cycle') laid out a visual vocabulary which would pretty much define the aesthetic of the modern music video  - vivid primary colours , surreal & occult imagery & an emphasis on mood over narrative. 
 
 <hr>
 
-<h2 class='date'>Wednesday 6th</h2>
+<h2 class='date'>Tuesday 12th</h2>
 
-<a class='gig-tix' target=_blank href='https://gel.now/events/258'>Ormside: John Wall, Jack Dove + Caius Williams / Regan Bowering + Theodora Laird</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/92w6ao-beefheart-mcquinn-12th-may-the-shacklewell-arms-london-tickets'>Shacklewell Arms: Beefheart & Mcquinn</a>
 
-Another edition of Caius Williams & Theodora Laird’s GRAIN series , ‘a concert series and archiving project for experimental and improvised music’. This latest edition features the electronic musician & composer John Wall (his bio in the event listing reads: ‘Born 1950. Started composing 1990 and still going. Played and collaborated with some good people. There is no promotional visual youtube material.)
+This duo are a lovely soft rock group, sunny & sweetly psychedelic. They just put out their debut album, 'Midtown Downtime', having previously made music separately in different projects - the album is definitely worth checking out, and I reckon the show will be too.
 
-<a class='gig-tix' target=_blank href='https://gel.now/events/247'>Helen of Troy: Lost Domain</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/k6k7qp-sword-ii-12th-may-club-cheek-london-tickets'>Club Cheek: Sword II / Healing Power Of Horses / Citizenry</a>
 
-Cool esoteric electronic label throwing a party in Central London: 'if you love images more than people , if you love sex with your reflection , if you love acid depression , if you love afterworld sound... [[[ when you get there you will already be there ]]]'
+This band are great! I think I had them in my mind as an electronic group, maybe because of their name - which feels a bit cyberpunky ? , but really they're a great indie-rock band , with lush harmonies , vocal & songwriting duties shared across the band , and narrative-forward lyrics. Support comes from the mysterious 'Healing Power Of Horses'. 
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2427338'>Cu: North London Dub Club</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8e5daw-defender-jonique-hiding-lex-vervain-12th-may-windmill-brixton-london-tickets'>Windmill Brixton: Defender / Jonique /Hiding / Lex Vervain</a>
 
-The NLDC run these monthly free nights at Cu in Dalston, with DJs playing mostly vinyl deep dubby cuts . It's a great vibe , mixed crowd with some proper soundsytem heads standing at the front with their faces in the speakers. This is a special night commemorating the event's 3rd birthday . 
+Great classic Windmill lineup , with a genre diverse bill of artists on the up . Jonique is brilliant , the Windmill's listing page describes her music as having 'the edge of alt-rock, while weaving in the atmospheric influence of 90s trip-hop and electronica'. 
 
-<hr>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/xed6q3-tgt-great-escape-warm-up-mn-an-tol-any-young-mechanic-champ-modern-guilt-12th-may-the-george-tavern-london-tickets'>George Tavern: Mên An Tol / Any Young Mechanic / Champ / Modern Guilt</a>
 
-<h2 class='date'>Thursday 7th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/nvnd79-so-young-at-the-elephants-head-sylvies-head-omert-7th-may-the-elephants-head-london-tickets'>The Elephants Head: Sylvie's Head / Omertá</a>
-
-Anotehr So Young Elephant's Head show, this time headlined by the Swedish band Sylvie's Head – a band who 'move freely through hard breakbeats and chainsaw guitars, balearic house euphoria and unpredictable dub rock madness.' Supported by rowdy London punks Omerta.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/nv9b7l-elliott-smith-live-in-1999-7th-may-the-ivy-house-london-tickets'>Ivy House: Elliott Smith - Live in 1999</a>
-
-Deeper into Movies are screening a rare recorded concert performance by Elliott Smith at a festival in Olympia, Washington – with upscaled visuals and freshly re-mixed remastered sound. The closest thing to the impossible dream of seeing Elliott Smith play the Ivy House. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/ryd6mr-brava-taliable-lifeloose-7th-may-dream-bags-jaguar-shoes-london-tickets'>Jaguar Shoes: Brava / Taliable / Lifeloose</a>
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2410835'>Arch 555: Adventures In Dub: 1st Year Anniversary</a>
-
-Big Brixton Dub party , with a full live sound system, special guest & food stalls!
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2410759'>Piehouse Co-op: Kiss Me You Fool</a>
-
-This looks like an absolute bonanza. A chaotic night , with ' experimental electronics, bass, techno and harder rhythms. Asian food is served throughout.' Among the long list of performers, Xuanni_space is an artist from 'the southern Chinese underground... Starting from free improvisation with violin, her setup has evolved over the years into a Digitakt, a no-input mixer, and a Nintendo 3DS'. 
-
-<a class='gig-tix' target=_blank href='https://www.cafeoto.co.uk/events/rp-boo-residency-2026/'>Cafe OTO: Rp Boo & Xt</a>
-
-RP Boo, one of the originators of the Chicago Footwork genre - a percussive, fast & heavily-sycopated style of dance music - plays two nights at Cafe OTO . On this first one he performs a special set with the drum / sax duo XT. 
-
-<hr>
-
-<h2 class='date'>Friday 8th</h2>
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/ryqgyy-josephine-foster-joe-harvey-whyte-8th-may-stone-nest-london-tickets'>Stone Nest: Josephine Foster / Joe Harvey-Whyte</a>
-
-Very special show! Josephine Foster is a singer-songwriter - 'a former opera student turned visionary folk experimentalist' - from Colorado, with a wavering, rich voice. She sounds like one of those old folk singers whose music is lost for decades, then rediscovered in a box of tapes in an attic. Me, Clari & Saya saw her a few years ago at Green Man's Walled Garden stage, and all fell totally under her spell. 
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/oevblg-big-long-sun-8th-may-the-george-tavern-london-tickets'>George Tavern: big long sun</a>
-
-big long sun are one of those bands who create their own little world – their music is multi-pronged , absurd & sweetly pschadelic ; performed by a big long 8 piece band. Their youtube channel is filled with bizarre collagey music videos and band vlogs - they've recently been teasing a documentary about the making of their latest album. Brighton's (sligthly less mad) answer to the Brian Jonestown Massacre.
-
-<a class='gig-tix' target=_blank href='https://dice.fm/event/l8dd6l-speedial-auntie-skunkworm-phoebe-massey-8th-may-windmill-brixton-london-tickets'>Windmill Brixton: Speedial / Auntie / Skunkworm / Phoebe Massey</a>
-
-Lovely windmill lineup, headlined by the jazzy, dreamy Speedial, along with folk-rockers Auntie. 
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2363379'>The Cause: Hardcore Continuum vol.2</a>
-
-Taking its name from Simon Reynolds description of UK underground Dance music's evolution through the 1990s , 'Hardcore Continuum' is a new event series at The Cause, 'bringing together the architects of the sound and the sharpest new talent carrying it forward' - this 2nd edition features the industrial techno pioneers British Murder Boys & Gabber Elengaza - a project 'Capturing the brute, in-your-face sound of hardcore as well as the current wave of underground club and electronic music drawing inspiration from rave and gabber sounds.'
-
-<a class='gig-tix' target=_blank href='https://ra.co/events/2395104'>M.O.T: RADA x Soul Feeder - Euro Crush</a>
-
-A stacked bill, making use of the PRS Foundation's Early Career Promoter Fund to bring together experimental club artists from across the continent - including the Swedish songwriter/producer Eurohead - who combines 'influences from Swedish folk music and European dance styles, such as Euro Hardcore and Hardstyle.'
+Warm-up show for 4 artists playing the Great Escape festival this weekend – headlined by Mên An Tol, a folk-rock band with a Cornish name & trad folk influences, channeled through 2010s indie. 
 
 
 <hr>
 
-<h2 class='date'>Saturday 9th</h2>
+<h2 class='date'>Wednesday 13th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/2wk57a-euroheedfest-14-annual-guided-by-voices-fan-event-9th-may-the-george-tavern-london-tickets'>George Tavern: EuroHeedfest 14 (Annual Guided By Voices Fan Event)</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/avw762-holybones-sell-everything-glasshouse-red-spider-mite-13th-may-windmill-brixton-london-tickets'>Windmill Brixton: holybones + Sell Everything + Glasshouse Red Spider Mite</a>
 
-The place to be for fans of the relentlessly prolific American indie band Guided by Voices. This is an event which has been running annually for 14 years - at least beginning to approach the band's output of 43 full-length albums. For the 2nd time, the event is taking place at the George - with a lineup combining long-running gbv tribute bands & London music scene supergroups - playing gbv cover sets for 1 night only. 
+Another Great Escape warm up, put on by the promoters FORM. holybones headline, a masked alt-electronic collective, joined by Sell Everything and Glasshouse Red Spider Mite , a band whose spidery slowcore sometimes sounds like the best music ever. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/mx75v9-celeste-madden-rotting-ewan-samms-9th-may-morocco-bound-bermondsey-london-tickets'>Morocco Bound: Celeste Madden / Rotting / Ewan Samms</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/7dkg8v-christian-music-temeraire-13th-may-the-elephants-head-london-tickets'>Elephants Head: Christian Music / Temeraire</a>
 
-A night of folk & indie at the Bermondsey bookshop. Ewan Samms' spiralling tunes, shoegazers Celeste Madden & Rotting - the project of Nat from Form Affinity.
+Christian Music are a rowdy hardcore band from Stoke on Trent - they are , I promise , ungodly. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/wwevgx-punchbag-9th-may-the-lexington-london-tickets'>The Lexington: Punchbag / Lifeloose / Understudy</a>
+<a class='gig-tix' target=_blank href='https://www.instagram.com/reel/DXjSUzHqztU/?utm_source=ig_web_copy_link'>Lake: Nada Sonics</a>
 
-Punchbag are a fun, colourful hyperpop-punk band , high energy, textured & with great anthemic melodies. Lifeloose & Understudy are both in that same world ,  this is a big electro rock rave !
+This is a 'listening session' organised by Nada Sonics. Their show 'Sway of the Verses' has been broadcast on NTS Radio since 2023, and 'shares the intricacies of raga music, an ever evolving ancient musical tradition weaving through the numerous musicians, instruments, ragas, time-cycles and concepts of this genre.' This session will involve 'an uninterrupted listening session of 90 mins, sat on the floor on cushions, sipping tea and melting away to the vibes.'
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2424430'>Ormside: Halcyon Veil 10 yr Anniversary</a>
+<a class='gig-tix' target=_blank href='https://www.instagram.com/p/DX94_KODQvx/?img_index=1'>Candid Arts Trust: 0.500 kg of the self</a>
 
-The Texas-based experimental dance label commemorate their 10th Birthday by curating a night at Ormside, featuring label friends & family. Lots of birthdays this week it seems ?!
-
-<a class='gig-tix' target=_blank href='https://gel.now/events/352'>Hackney Wick (secret location): alternative recreation club</a>
-
-Secret Hackney Wick rave with what looks like a mad & stacked lineup , 'a hidden space for a special curation of artists exploring the outer edges of experimental electronic music.' not many details yet but bits & pieces are there on the organiser's Instagram. 
+Showcase for the CSM MA Contemporary Photography class of 2026 , 'a pop-up show of sculptures, installations, photographic works and performances, offering at least a half kilo of the self.' and drinks etc 
 
 <hr>
 
-<h2 class='date'>Sunday 10th</h2>
+<h2 class='date'>Thursday 14th</h2>
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3oagk8-acoustic-music-naked-brunch-and-friends-10th-may-theatreship-london-tickets'>Theatreship: Naked Brunch / Rebecca Burden / Everett</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/9278q6-transglobal-underground-14th-may-fox-and-firkin-london-tickets'>Fox and Firkin: Transglobal Underground</a>
 
-A lovely folk night on the water - Everett in particular is a wonderful, singular singer-songwriter. 
+Transglobal Underground are a folk music / world music / dance music collective ? They've been going over 30 years, and their big hit 'Temple Head' has a sort of baggy, madchester vibe . Apparently it was used in a Coca Cola advert for the 1996 World Cup. I was listening to some of their music while putting this week's listings together and it's nice groovy stuff. 
 
-<a class='gig-tix' target=_blank href='https://dice.fm/event/3oawm8-tgt-the-midnight-audience-10th-may-the-george-tavern-london-tickets'>George Tavern: The Midnight Audience / Elijah Waters</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/927v86-fat-concubine-omert-14th-may-windmill-brixton-london-tickets'>Windmill Brixton: Fat Concubine / Omerta</a>
 
-The Midnight Audience are a shadowy post-rock band from Berlin - 'Soundtracks without image, environments built from residue. The Audience works at the edge of thresholds and tension. Sound as a space you move through, their narratives instigate against both memory and the unfamiliar.' They're joined by the maverick songwriter/producer Elijah Waters. 
+This is classic sweaty windmill stuff – mosh pits, crowdsurfing & lots of antics. 
 
-<a class='gig-tix' target=_blank href='https://ra.co/events/2420870'>M.O.T: Sunday Repairs</a>
+<a class='gig-tix' target=_blank href='https://dice.fm/event/q2vykx-metabolic-drift-0rphan-drift-john-wild-matt-lewis-vc-violet-savage-and-ciar-wild-14th-may-iklectik-london-tickets'>IKLECKTIK: Metabolic Drift</a>
 
-A healing Sunday of genre diverse artists, 'From Dream Pop singer-songwriter Shii and Electro Alt-rock band KyoYoKo, travelling all the way from China, to the intense, raw South London Digicore and Indie sounds of Bengalzrule00 and olly nuts tribute band, right down to indie singer-songwriter Rubenmccarter and Chzaza alongside her band... We crush these 6 completely different sounds into the exact same space
+This is - uh hum - a 'three part sonic-led journey through the complex metabolic interplay between society and nature, exploring the vibrational continuum and interconnectedness of the Noosphere, Biosphere, and Geosphere.' There will be video projections & experimental improvised dance. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/xe675e-henge-mariam-rezaei-dms-at-robyns-rocket-14th-may-fabric-london-tickets'>Fabric:  HENGE / Mariam Rezaei / D.M.S</a>
+
+The mad , cosmic rock group HENGE take over Fabric's main room , with (mad, cosmic) live visuals from Rucksack Cinema. 
+
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2408139'>The Greyhound: TDB x Pulse Collective</a>
+
+Like a boiler room session at a pub in Peckham, a night of live recorded DJ sets with an unannounced lineup - promising 
+'secret international headliners, rising underground selectors, and a fully immersive dancefloor experience... genres on the night: Hard House , Hardgroove , Techno , UKG'
+
+
+<hr>
+
+<h2 class='date'>Friday 15th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8d32p-speed-of-sound-presents-pys-melyn-rain-candys-room-15th-may-the-greyhound-london-tickets'>The Greyhound: Pys Melyn / Òrain / Candy's Room</a>
+
+Back at the Greyhound, on a very different vibe with the Welsh indie band Pys Melyn - these guys are great, something 60s psychedelic about them . 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/8e623r-thistle-15th-may-moth-club-london-tickets'>MOTH Club: thistle. / ugly ozo</a>
+
+One of my favourite bands around at the moment – thistle. are a shoegaze (or nu-gaze , or grungegaze) trio from Nottingham . Their music is gritty, lofi & dirgey , while also a bit poppy in places , really nice stuff. Stick around at MOTH club afterwards for...
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/oeq59m-deptford-northern-soul-club-15th-may-moth-club-london-tickets'>MOTH Club: Deptford Northern Soul Club</a>
+
+Deptford Northern Soul's club nights, especially these ones at MOTH, are some of the most reliably fun & uplifting nights out in London. It's really just perfect music for dancing isn't it . 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8dk7x-the-wheel-2-spirited-followers-rampressure-pla-15th-may-windmill-brixton-london-tickets'>Windmill Brixton: The Wheel 2! / Spirited Followers / Rampressure / Platonica Erotica</a>
+
+So much good stuff at the Windmill these week , very nice to see . I fell for The Wheel 2! when I first heard their band name, and the music lives up to it - they constantly re-invent themselves as the set goes on , shifting between sounds & genres. Rampressure are great, and Platonica Erotica is a wonderful songwriter, her song ‘Marriage of Convenience’ is a classic in my mind.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2373406'>E1: Polyamor</a>
+
+Polyamor are a Berlin underground techno/trance label – 'Shaping the sound of tomorrow from Berlin with love.' They return to E1 with a lineup headlined by the duo 2HOT2PLAY - raw, energetic, rhythmic & ecstatic.
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2422667'>Distillery N17: The Great Wall of Bass</a>
+
+I think the name pretty much sells this night . The organisers promise a 'fat rig' and 'wicked tunes'. 
+
+
+<hr>
+
+<h2 class='date'>Saturday 16th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/yobqw2-steely-dan-2-sinatra-lives-and-more-16th-may-the-ivy-house-london-tickets'>The Ivy House: Beer Fest (Steely Dan 2 / Sinatra... Lives! / ...)</a>
+
+Another edition of the Ivy House's annual Beer Fest - with free live music and 'a preposterous selection of beers, ciders and ales'. The Saturday lineup is the centrepiece, with an array of great bands from London plus two special cover sets from Steely Dan 2 &  Sinatra... Lives! - graduates of The George Tavern's Halloweekender bonanza. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3oavvl-the-cause-presents-touch-tonic-16th-may-the-greyhound-london-tickets'>The Greyhound: TATYANA / MM'99 / Alexis / Lifeloose / PVA DJs</a>
+
+The first edition in a new series from The Cause nightclub, which sees them promote nights at venues outside of their docklands home. This is a great lineup of artists on the edgier realms of electronic & dance music. 
+
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/3owoml-test-pressing-wally-badarou-ddwy-live-16th-may-the-jazz-cafe-london-tickets'>Jazz Cafe: Wally Badarou & ddwy</a>
+
+A special collaboration between Wally Badarou - the legendary composer, producer & session musician who has worked with Grace Jones, Talking Heads & Fela Kuti - and the dubby husband & wife producer duo ddwy.
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/6dwddb-the-ocelots-fionnuala-mary-bradbury-16th-may-theatreship-london-tickets'>Theatreship: The Ocelots</a>
+
+I saw this twin-brother band play at All Together Now festival in 2024 , and thought they were wonderful . Sweet , nostalgic folk-psych-rock. 
+
+<a class='gig-tix' target=_blank href='https://ra.co/events/2347032'>FOLD: Goodness 24h</a>
+
+Barnstormer! This is a massive 24 hour party at FOLD, with a long lineup featuring sets from a variety of exciting & legendary DJs, across a wide spectrum of genres – highlights include dub legend Aba Shanti-I, DJ Python b2b mad miran and former 808 state member A Guy Called Gerald. I reckon any stretch you can be here , from 11pm Saturday to 11pm Sunday , will be sick. 
+
+
+<hr>
+
+<h2 class='date'>Sunday 17th</h2>
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/l8bv5w-flooding-tummyache-17th-may-the-lexington-london-tickets'>The Lexington: Flooding / Tummyache</a>
+
+Tummyache were one of the first bands I went to see regularly when I first moved to London. They are an awesome group – punky & intricate at the same time. 
+
+<a class='gig-tix' target=_blank href='https://dice.fm/event/avqnbd-ringlets-17th-may-windmill-brixton-london-tickets'>Windmill Brixton: Ringlets</a>
+
+Ringlets are a post-punk / indie band from New Zealand , I listened to a bit of their album 'The Lord is My German Shepherd (Time for Walkies)' - hehe - and enjoyed it! I reckon fans of bands like Ugly and Blue Bendy might enjoy these guys as well. 
+
+<a class='gig-tix' target=_blank href='https://thenickel.co.uk/screening/349'>Nickel Cinema: Surprise Kung Fu Matinee</a>
+
+Get down to London's best grindhouse cinema for a screening of 'deep-cut chopsocky plucked from the 70s and 80s. Screening on both digital and VHS - with bone-crushing bashers from the genre that mixed Chinese folklore and fantasy, spaghetti westerns, melodrama, Japanese samurai films and American genre cinema into an electrifying combo that inspired both the future of action films - and hip hop.'
+
+<a class='gig-tix' target=_blank href='https://setspace.uk/event/sunday-open-session-with-folk-of-the-round-table-set-social/2026-05-17/'>SET Social: Folk of the Round Table</a>
+
+A lovely weekly folk session at SET Social in Peckham . Bring an instrument, or sit back and enjoy some old old music played by proper folk historians. 
 
 <hr>
 

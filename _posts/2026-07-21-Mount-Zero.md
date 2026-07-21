@@ -60,7 +60,7 @@ If there’s a slight sense heading towards the end of the album that the band h
 
 _Mount Zero_ pairs nicely with Feeble Little Horse’s _Bitknot_ from a couple months ago – both albums are fuzzzzzy, sweet in places, noisy in others, and indebted to ‘90s analogue sounds while embracing glitchy, maximalist digital production. Water From Your Eyes _It’s a Beautiful Place_ from last year also sits in a similar world. Maybe this kind of glitchy, fuzzy sound is a bit of an emerging subgenre or tendency in contemporary indie rock? To me it feels like something different, and more progressive, than the broader wave of 90s alt-rock influenced indie which has been in ascendance for quite a while now. 
 
-In any case this is a great album and well worth your time. I also heard from some friends who were at SXSW this year that Swapmeet were really great live – they’re briefly touring the UK in November, playing Pitchfork London as well as some shows in Brighton, Manchester and Glasgow, go on downnnnn if you can!
+In any case this is a great album and well worth your time. I also heard from some friends who were at SXSW this year that Swapmeet were really good live – they’re briefly touring the UK in November, playing Pitchfork London as well as some shows in Brighton, Manchester and Glasgow, go on downnnnn if you can!
 
 for now, listen to this album, let me know what you think, be well, be sweet, love you lots bye. 
 
